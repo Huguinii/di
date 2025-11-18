@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DI\\Tema2\\Ejemplo1Tema2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC1A365-7AEC-4FE3-A300-E78608019516}|EjemploTema2\\Ejemplo1Tema2.csproj|F:\\DI\\Tema2\\Ejemplo1Tema2\\ejemplotema2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFC1A365-7AEC-4FE3-A300-E78608019516}|EjemploTema2\\Ejemplo1Tema2.csproj|solutionrelative:ejemplotema2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC1A365-7AEC-4FE3-A300-E78608019516}|EjemploTema2\\Ejemplo1Tema2.csproj|f:\\di\\tema2\\ejemplo1tema2\\ejemplotema2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC1A365-7AEC-4FE3-A300-E78608019516}|EjemploTema2\\Ejemplo1Tema2.csproj|solutionrelative:ejemplotema2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFC1A365-7AEC-4FE3-A300-E78608019516}|EjemploTema2\\Ejemplo1Tema2.csproj|F:\\DI\\Tema2\\Ejemplo1Tema2\\ejemplotema2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFC1A365-7AEC-4FE3-A300-E78608019516}|EjemploTema2\\Ejemplo1Tema2.csproj|solutionrelative:ejemplotema2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\DI\\Tema2\\Ejemplo1Tema2\\EjemploTema2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "EjemploTema2\\Form1.Designer.cs",
+              "ToolTip": "F:\\DI\\Tema2\\Ejemplo1Tema2\\EjemploTema2\\Form1.Designer.cs",
+              "RelativeToolTip": "EjemploTema2\\Form1.Designer.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAnwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:25:08.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\DI\\Tema2\\Ejemplo1Tema2\\EjemploTema2\\Form1.cs",
+              "RelativeDocumentMoniker": "EjemploTema2\\Form1.cs",
+              "ToolTip": "F:\\DI\\Tema2\\Ejemplo1Tema2\\EjemploTema2\\Form1.cs",
+              "RelativeToolTip": "EjemploTema2\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:15:48.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\DI\\Tema2\\Ejemplo1Tema2\\EjemploTema2\\Form1.cs",
+              "RelativeDocumentMoniker": "EjemploTema2\\Form1.cs",
+              "ToolTip": "F:\\DI\\Tema2\\Ejemplo1Tema2\\EjemploTema2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EjemploTema2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:08:10.175Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+F:\DI\Tema6\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+F:\DI\Tema6\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe
+F:\DI\Tema6\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.pdb
+F:\DI\Tema6\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+F:\DI\Tema6\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+F:\DI\Tema6\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe
+F:\DI\Tema6\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.pdb

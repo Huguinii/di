@@ -1,0 +1,14 @@
+F:\DI\Tema1\HolaMundo2\HolaMundo2\bin\Debug\net8.0\HolaMundo2.exe
+F:\DI\Tema1\HolaMundo2\HolaMundo2\bin\Debug\net8.0\HolaMundo2.deps.json
+F:\DI\Tema1\HolaMundo2\HolaMundo2\bin\Debug\net8.0\HolaMundo2.runtimeconfig.json
+F:\DI\Tema1\HolaMundo2\HolaMundo2\bin\Debug\net8.0\HolaMundo2.dll
+F:\DI\Tema1\HolaMundo2\HolaMundo2\bin\Debug\net8.0\HolaMundo2.pdb
+F:\DI\Tema1\HolaMundo2\HolaMundo2\obj\Debug\net8.0\HolaMundo2.GeneratedMSBuildEditorConfig.editorconfig
+F:\DI\Tema1\HolaMundo2\HolaMundo2\obj\Debug\net8.0\HolaMundo2.AssemblyInfoInputs.cache
+F:\DI\Tema1\HolaMundo2\HolaMundo2\obj\Debug\net8.0\HolaMundo2.AssemblyInfo.cs
+F:\DI\Tema1\HolaMundo2\HolaMundo2\obj\Debug\net8.0\HolaMundo2.csproj.CoreCompileInputs.cache
+F:\DI\Tema1\HolaMundo2\HolaMundo2\obj\Debug\net8.0\HolaMundo2.dll
+F:\DI\Tema1\HolaMundo2\HolaMundo2\obj\Debug\net8.0\refint\HolaMundo2.dll
+F:\DI\Tema1\HolaMundo2\HolaMundo2\obj\Debug\net8.0\HolaMundo2.pdb
+F:\DI\Tema1\HolaMundo2\HolaMundo2\obj\Debug\net8.0\HolaMundo2.genruntimeconfig.cache
+F:\DI\Tema1\HolaMundo2\HolaMundo2\obj\Debug\net8.0\ref\HolaMundo2.dll
