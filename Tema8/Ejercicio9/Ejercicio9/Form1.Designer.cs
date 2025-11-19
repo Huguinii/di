@@ -105,7 +105,7 @@
             // 
             this.txtTitulo.Location = new System.Drawing.Point(97, 40);
             this.txtTitulo.Name = "txtTitulo";
-            this.txtTitulo.Size = new System.Drawing.Size(270, 20);
+            this.txtTitulo.Size = new System.Drawing.Size(254, 20);
             this.txtTitulo.TabIndex = 6;
             // 
             // txtNPaginas
@@ -163,6 +163,7 @@
             this.btnCancelar.TabIndex = 15;
             this.btnCancelar.Text = "CANCELAR";
             this.btnCancelar.UseVisualStyleBackColor = true;
+            this.btnCancelar.Click += new System.EventHandler(this.btnCancelar_Click);
             // 
             // lsvLibros
             // 
