@@ -1,0 +1,12 @@
+F:\DI\di\Tema9\Ejercicio2-3\Ejercicio2-3\bin\Debug\Ejercicio2-3.exe.config
+F:\DI\di\Tema9\Ejercicio2-3\Ejercicio2-3\bin\Debug\Ejercicio2-3.exe
+F:\DI\di\Tema9\Ejercicio2-3\Ejercicio2-3\bin\Debug\Ejercicio2-3.pdb
+F:\DI\di\Tema9\Ejercicio2-3\Ejercicio2-3\obj\Debug\Ejercicio2-3.csproj.AssemblyReference.cache
+F:\DI\di\Tema9\Ejercicio2-3\Ejercicio2-3\obj\Debug\Ejercicio2_3.Form1.resources
+F:\DI\di\Tema9\Ejercicio2-3\Ejercicio2-3\obj\Debug\Ejercicio2_3.Properties.Resources.resources
+F:\DI\di\Tema9\Ejercicio2-3\Ejercicio2-3\obj\Debug\Ejercicio2-3.csproj.GenerateResource.cache
+F:\DI\di\Tema9\Ejercicio2-3\Ejercicio2-3\obj\Debug\Ejercicio2-3.csproj.CoreCompileInputs.cache
+F:\DI\di\Tema9\Ejercicio2-3\Ejercicio2-3\obj\Debug\Ejercicio2-3.exe
+F:\DI\di\Tema9\Ejercicio2-3\Ejercicio2-3\obj\Debug\Ejercicio2-3.pdb
+F:\DI\di\Tema9\Ejercicio2-3\Ejercicio2-3\obj\Debug\Ejercicio2-3.exe.config
+F:\DI\di\Tema9\Ejercicio2-3\Ejercicio2-3\obj\Debug\Ejercicio2_3.FormHijo.resources

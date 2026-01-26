@@ -1,0 +1,11 @@
+F:\DI\di\Tema9\EjercicioListaImagenes\EjercicioListaImagenes\bin\Debug\EjercicioListaImagenes.exe.config
+F:\DI\di\Tema9\EjercicioListaImagenes\EjercicioListaImagenes\bin\Debug\EjercicioListaImagenes.exe
+F:\DI\di\Tema9\EjercicioListaImagenes\EjercicioListaImagenes\bin\Debug\EjercicioListaImagenes.pdb
+F:\DI\di\Tema9\EjercicioListaImagenes\EjercicioListaImagenes\obj\Debug\EjercicioListaImagenes.csproj.AssemblyReference.cache
+F:\DI\di\Tema9\EjercicioListaImagenes\EjercicioListaImagenes\obj\Debug\EjercicioListaImagenes.formPrincipal.resources
+F:\DI\di\Tema9\EjercicioListaImagenes\EjercicioListaImagenes\obj\Debug\EjercicioListaImagenes.Properties.Resources.resources
+F:\DI\di\Tema9\EjercicioListaImagenes\EjercicioListaImagenes\obj\Debug\EjercicioListaImagenes.csproj.GenerateResource.cache
+F:\DI\di\Tema9\EjercicioListaImagenes\EjercicioListaImagenes\obj\Debug\EjercicioListaImagenes.csproj.CoreCompileInputs.cache
+F:\DI\di\Tema9\EjercicioListaImagenes\EjercicioListaImagenes\obj\Debug\EjercicioListaImagenes.exe
+F:\DI\di\Tema9\EjercicioListaImagenes\EjercicioListaImagenes\obj\Debug\EjercicioListaImagenes.pdb
+F:\DI\di\Tema9\EjercicioListaImagenes\EjercicioListaImagenes\obj\Debug\EjercicioListaImagenes.exe.config

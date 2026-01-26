@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DI\\di\\Tema9\\EjercicioListaImagenes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4F8C8E-999F-4A6A-BF80-30203A4FEF27}|EjercicioListaImagenes\\EjercicioListaImagenes.csproj|f:\\di\\di\\tema9\\ejerciciolistaimagenes\\ejerciciolistaimagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0A4F8C8E-999F-4A6A-BF80-30203A4FEF27}|EjercicioListaImagenes\\EjercicioListaImagenes.csproj|solutionrelative:ejerciciolistaimagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4F8C8E-999F-4A6A-BF80-30203A4FEF27}|EjercicioListaImagenes\\EjercicioListaImagenes.csproj|f:\\di\\di\\tema9\\ejerciciolistaimagenes\\ejerciciolistaimagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4F8C8E-999F-4A6A-BF80-30203A4FEF27}|EjercicioListaImagenes\\EjercicioListaImagenes.csproj|solutionrelative:ejerciciolistaimagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A4F8C8E-999F-4A6A-BF80-30203A4FEF27}|EjercicioListaImagenes\\EjercicioListaImagenes.csproj|f:\\di\\di\\tema9\\ejerciciolistaimagenes\\ejerciciolistaimagenes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A4F8C8E-999F-4A6A-BF80-30203A4FEF27}|EjercicioListaImagenes\\EjercicioListaImagenes.csproj|solutionrelative:ejerciciolistaimagenes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\DI\\di\\Tema9\\EjercicioListaImagenes\\EjercicioListaImagenes\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "EjercicioListaImagenes\\Form1.Designer.cs",
+              "ToolTip": "F:\\DI\\di\\Tema9\\EjercicioListaImagenes\\EjercicioListaImagenes\\Form1.Designer.cs",
+              "RelativeToolTip": "EjercicioListaImagenes\\Form1.Designer.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:07:41.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\DI\\di\\Tema9\\EjercicioListaImagenes\\EjercicioListaImagenes\\Form1.cs",
+              "RelativeDocumentMoniker": "EjercicioListaImagenes\\Form1.cs",
+              "ToolTip": "F:\\DI\\di\\Tema9\\EjercicioListaImagenes\\EjercicioListaImagenes\\Form1.cs",
+              "RelativeToolTip": "EjercicioListaImagenes\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAvwBsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T11:01:30.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\DI\\di\\Tema9\\EjercicioListaImagenes\\EjercicioListaImagenes\\Form1.cs",
+              "RelativeDocumentMoniker": "EjercicioListaImagenes\\Form1.cs",
+              "ToolTip": "F:\\DI\\di\\Tema9\\EjercicioListaImagenes\\EjercicioListaImagenes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EjercicioListaImagenes\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:58:37.436Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

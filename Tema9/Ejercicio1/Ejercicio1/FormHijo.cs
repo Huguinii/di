@@ -16,5 +16,7 @@ namespace Ejercicio1
         {
             InitializeComponent();
         }
+
+        
     }
 }

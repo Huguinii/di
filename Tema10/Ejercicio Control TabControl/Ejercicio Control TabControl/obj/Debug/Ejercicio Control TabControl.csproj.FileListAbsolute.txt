@@ -1,0 +1,11 @@
+F:\DI\di\Tema10\Ejercicio Control TabControl\Ejercicio Control TabControl\bin\Debug\Ejercicio Control TabControl.exe.config
+F:\DI\di\Tema10\Ejercicio Control TabControl\Ejercicio Control TabControl\bin\Debug\Ejercicio Control TabControl.exe
+F:\DI\di\Tema10\Ejercicio Control TabControl\Ejercicio Control TabControl\bin\Debug\Ejercicio Control TabControl.pdb
+F:\DI\di\Tema10\Ejercicio Control TabControl\Ejercicio Control TabControl\obj\Debug\Ejercicio Control TabControl.csproj.AssemblyReference.cache
+F:\DI\di\Tema10\Ejercicio Control TabControl\Ejercicio Control TabControl\obj\Debug\Ejercicio_Control_TabControl.Form1.resources
+F:\DI\di\Tema10\Ejercicio Control TabControl\Ejercicio Control TabControl\obj\Debug\Ejercicio_Control_TabControl.Properties.Resources.resources
+F:\DI\di\Tema10\Ejercicio Control TabControl\Ejercicio Control TabControl\obj\Debug\Ejercicio Control TabControl.csproj.GenerateResource.cache
+F:\DI\di\Tema10\Ejercicio Control TabControl\Ejercicio Control TabControl\obj\Debug\Ejercicio Control TabControl.csproj.CoreCompileInputs.cache
+F:\DI\di\Tema10\Ejercicio Control TabControl\Ejercicio Control TabControl\obj\Debug\Ejercicio Control TabControl.exe
+F:\DI\di\Tema10\Ejercicio Control TabControl\Ejercicio Control TabControl\obj\Debug\Ejercicio Control TabControl.pdb
+F:\DI\di\Tema10\Ejercicio Control TabControl\Ejercicio Control TabControl\obj\Debug\Ejercicio Control TabControl.exe.config

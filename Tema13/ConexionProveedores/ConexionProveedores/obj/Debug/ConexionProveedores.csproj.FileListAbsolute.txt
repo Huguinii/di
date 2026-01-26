@@ -1,0 +1,11 @@
+F:\DI\di\Tema13\ConexionProveedores\ConexionProveedores\bin\Debug\ConexionProveedores.exe.config
+F:\DI\di\Tema13\ConexionProveedores\ConexionProveedores\bin\Debug\ConexionProveedores.exe
+F:\DI\di\Tema13\ConexionProveedores\ConexionProveedores\bin\Debug\ConexionProveedores.pdb
+F:\DI\di\Tema13\ConexionProveedores\ConexionProveedores\obj\Debug\ConexionProveedores.csproj.AssemblyReference.cache
+F:\DI\di\Tema13\ConexionProveedores\ConexionProveedores\obj\Debug\ConexionProveedores.Form1.resources
+F:\DI\di\Tema13\ConexionProveedores\ConexionProveedores\obj\Debug\ConexionProveedores.Properties.Resources.resources
+F:\DI\di\Tema13\ConexionProveedores\ConexionProveedores\obj\Debug\ConexionProveedores.csproj.GenerateResource.cache
+F:\DI\di\Tema13\ConexionProveedores\ConexionProveedores\obj\Debug\ConexionProveedores.csproj.CoreCompileInputs.cache
+F:\DI\di\Tema13\ConexionProveedores\ConexionProveedores\obj\Debug\ConexionProveedores.exe
+F:\DI\di\Tema13\ConexionProveedores\ConexionProveedores\obj\Debug\ConexionProveedores.pdb
+F:\DI\di\Tema13\ConexionProveedores\ConexionProveedores\obj\Debug\ConexionProveedores.exe.config

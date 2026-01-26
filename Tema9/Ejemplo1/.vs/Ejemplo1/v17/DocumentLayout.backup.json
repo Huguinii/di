@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "F:\\DI\\di\\Tema9\\Ejemplo1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2177C9E-5973-4587-9F28-4D5FF34032FF}|Ejemplo1\\Ejemplo1.csproj|f:\\di\\di\\tema9\\ejemplo1\\ejemplo1\\formdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2177C9E-5973-4587-9F28-4D5FF34032FF}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\formdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2177C9E-5973-4587-9F28-4D5FF34032FF}|Ejemplo1\\Ejemplo1.csproj|f:\\di\\di\\tema9\\ejemplo1\\ejemplo1\\forminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2177C9E-5973-4587-9F28-4D5FF34032FF}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\forminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E2177C9E-5973-4587-9F28-4D5FF34032FF}|Ejemplo1\\Ejemplo1.csproj|f:\\di\\di\\tema9\\ejemplo1\\ejemplo1\\formdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E2177C9E-5973-4587-9F28-4D5FF34032FF}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\formdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2177C9E-5973-4587-9F28-4D5FF34032FF}|Ejemplo1\\Ejemplo1.csproj|f:\\di\\di\\tema9\\ejemplo1\\ejemplo1\\forminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E2177C9E-5973-4587-9F28-4D5FF34032FF}|Ejemplo1\\Ejemplo1.csproj|F:\\DI\\di\\Tema9\\Ejemplo1\\ejemplo1\\forminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E2177C9E-5973-4587-9F28-4D5FF34032FF}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\forminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2177C9E-5973-4587-9F28-4D5FF34032FF}|Ejemplo1\\Ejemplo1.csproj|F:\\DI\\di\\Tema9\\Ejemplo1\\ejemplo1\\formdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2177C9E-5973-4587-9F28-4D5FF34032FF}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\formdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2177C9E-5973-4587-9F28-4D5FF34032FF}|Ejemplo1\\Ejemplo1.csproj|F:\\DI\\di\\Tema9\\Ejemplo1\\ejemplo1\\forminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2177C9E-5973-4587-9F28-4D5FF34032FF}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\forminicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "FormDatos.cs",
               "DocumentMoniker": "F:\\DI\\di\\Tema9\\Ejemplo1\\Ejemplo1\\FormDatos.cs",
               "RelativeDocumentMoniker": "Ejemplo1\\FormDatos.cs",
-              "ToolTip": "F:\\DI\\di\\Tema9\\Ejemplo1\\Ejemplo1\\FormDatos.cs*",
-              "RelativeToolTip": "Ejemplo1\\FormDatos.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAYAAAAAAAAAA==",
+              "ToolTip": "F:\\DI\\di\\Tema9\\Ejemplo1\\Ejemplo1\\FormDatos.cs",
+              "RelativeToolTip": "Ejemplo1\\FormDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T11:34:04.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FormInicial.cs",
               "DocumentMoniker": "F:\\DI\\di\\Tema9\\Ejemplo1\\Ejemplo1\\FormInicial.cs",
               "RelativeDocumentMoniker": "Ejemplo1\\FormInicial.cs",
@@ -51,32 +51,30 @@
               "RelativeToolTip": "Ejemplo1\\FormInicial.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAgwBcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T11:25:20.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T11:25:20.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FormDatos.cs [Dise\u00F1o]",
               "DocumentMoniker": "F:\\DI\\di\\Tema9\\Ejemplo1\\Ejemplo1\\FormDatos.cs",
               "RelativeDocumentMoniker": "Ejemplo1\\FormDatos.cs",
-              "ToolTip": "F:\\DI\\di\\Tema9\\Ejemplo1\\Ejemplo1\\FormDatos.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Ejemplo1\\FormDatos.cs [Dise\u00F1o]*",
+              "ToolTip": "F:\\DI\\di\\Tema9\\Ejemplo1\\Ejemplo1\\FormDatos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejemplo1\\FormDatos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-19T11:21:47.502Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "FormInicial.cs [Dise\u00F1o]",
               "DocumentMoniker": "F:\\DI\\di\\Tema9\\Ejemplo1\\Ejemplo1\\FormInicial.cs",
               "RelativeDocumentMoniker": "Ejemplo1\\FormInicial.cs",
               "ToolTip": "F:\\DI\\di\\Tema9\\Ejemplo1\\Ejemplo1\\FormInicial.cs [Dise\u00F1o]",
               "RelativeToolTip": "Ejemplo1\\FormInicial.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T10:58:09.613Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-11-19T10:58:09.613Z"
             }
           ]
         }

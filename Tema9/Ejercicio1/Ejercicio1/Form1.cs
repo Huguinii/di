@@ -36,5 +36,15 @@ namespace Ejercicio1
         {
             LayoutMdi(MdiLayout.TileHorizontal);
         }
+
+        private void nuevoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void abrirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

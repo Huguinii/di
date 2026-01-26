@@ -1,0 +1,11 @@
+F:\DI\di\Tema9\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+F:\DI\di\Tema9\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+F:\DI\di\Tema9\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+F:\DI\di\Tema9\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+F:\DI\di\Tema9\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+F:\DI\di\Tema9\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.cache
+F:\DI\di\Tema9\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+F:\DI\di\Tema9\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+F:\DI\di\Tema9\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
+F:\DI\di\Tema9\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe.config
+F:\DI\di\Tema9\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.formPrincipal.resources

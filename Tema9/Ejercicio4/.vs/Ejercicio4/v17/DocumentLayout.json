@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DI\\di\\Tema9\\Ejercicio4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D44D0D8-1DF7-47C1-B1B3-FC4E01765C65}|Ejercicio4\\Ejercicio4.csproj|F:\\DI\\di\\Tema9\\Ejercicio4\\ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D44D0D8-1DF7-47C1-B1B3-FC4E01765C65}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D44D0D8-1DF7-47C1-B1B3-FC4E01765C65}|Ejercicio4\\Ejercicio4.csproj|f:\\di\\di\\tema9\\ejercicio4\\ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D44D0D8-1DF7-47C1-B1B3-FC4E01765C65}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D44D0D8-1DF7-47C1-B1B3-FC4E01765C65}|Ejercicio4\\Ejercicio4.csproj|F:\\DI\\di\\Tema9\\Ejercicio4\\ejercicio4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D44D0D8-1DF7-47C1-B1B3-FC4E01765C65}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\DI\\di\\Tema9\\Ejercicio4\\Ejercicio4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Form1.Designer.cs",
+              "ToolTip": "F:\\DI\\di\\Tema9\\Ejercicio4\\Ejercicio4\\Form1.Designer.cs",
+              "RelativeToolTip": "Ejercicio4\\Form1.Designer.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAowMsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:24:15.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\DI\\di\\Tema9\\Ejercicio4\\Ejercicio4\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Form1.cs",
+              "ToolTip": "F:\\DI\\di\\Tema9\\Ejercicio4\\Ejercicio4\\Form1.cs",
+              "RelativeToolTip": "Ejercicio4\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIA5wCsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:12:18.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\DI\\di\\Tema9\\Ejercicio4\\Ejercicio4\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Form1.cs",
+              "ToolTip": "F:\\DI\\di\\Tema9\\Ejercicio4\\Ejercicio4\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio4\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T11:10:50.631Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+F:\DI\di\Tema13\ConstruccionCadenaConexion\ConstruccionCadenaConexion\bin\Debug\ConstruccionCadenaConexion.exe.config
+F:\DI\di\Tema13\ConstruccionCadenaConexion\ConstruccionCadenaConexion\bin\Debug\ConstruccionCadenaConexion.exe
+F:\DI\di\Tema13\ConstruccionCadenaConexion\ConstruccionCadenaConexion\bin\Debug\ConstruccionCadenaConexion.pdb
+F:\DI\di\Tema13\ConstruccionCadenaConexion\ConstruccionCadenaConexion\obj\Debug\ConstruccionCadenaConexion.csproj.AssemblyReference.cache
+F:\DI\di\Tema13\ConstruccionCadenaConexion\ConstruccionCadenaConexion\obj\Debug\ConstruccionCadenaConexion.Form1.resources
+F:\DI\di\Tema13\ConstruccionCadenaConexion\ConstruccionCadenaConexion\obj\Debug\ConstruccionCadenaConexion.Properties.Resources.resources
+F:\DI\di\Tema13\ConstruccionCadenaConexion\ConstruccionCadenaConexion\obj\Debug\ConstruccionCadenaConexion.csproj.GenerateResource.cache
+F:\DI\di\Tema13\ConstruccionCadenaConexion\ConstruccionCadenaConexion\obj\Debug\ConstruccionCadenaConexion.csproj.CoreCompileInputs.cache
+F:\DI\di\Tema13\ConstruccionCadenaConexion\ConstruccionCadenaConexion\obj\Debug\ConstruccionCadenaConexion.exe
+F:\DI\di\Tema13\ConstruccionCadenaConexion\ConstruccionCadenaConexion\obj\Debug\ConstruccionCadenaConexion.pdb
+F:\DI\di\Tema13\ConstruccionCadenaConexion\ConstruccionCadenaConexion\obj\Debug\ConstruccionCadenaConexion.exe.config

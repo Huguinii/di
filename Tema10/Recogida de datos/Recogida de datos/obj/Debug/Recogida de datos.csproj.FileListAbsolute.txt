@@ -1,0 +1,11 @@
+F:\DI\di\Tema10\Recogida de datos\Recogida de datos\bin\Debug\Recogida de datos.exe.config
+F:\DI\di\Tema10\Recogida de datos\Recogida de datos\bin\Debug\Recogida de datos.exe
+F:\DI\di\Tema10\Recogida de datos\Recogida de datos\bin\Debug\Recogida de datos.pdb
+F:\DI\di\Tema10\Recogida de datos\Recogida de datos\obj\Debug\Recogida de datos.csproj.AssemblyReference.cache
+F:\DI\di\Tema10\Recogida de datos\Recogida de datos\obj\Debug\Recogida_de_datos.Form1.resources
+F:\DI\di\Tema10\Recogida de datos\Recogida de datos\obj\Debug\Recogida_de_datos.Properties.Resources.resources
+F:\DI\di\Tema10\Recogida de datos\Recogida de datos\obj\Debug\Recogida de datos.csproj.GenerateResource.cache
+F:\DI\di\Tema10\Recogida de datos\Recogida de datos\obj\Debug\Recogida de datos.csproj.CoreCompileInputs.cache
+F:\DI\di\Tema10\Recogida de datos\Recogida de datos\obj\Debug\Recogida de datos.exe
+F:\DI\di\Tema10\Recogida de datos\Recogida de datos\obj\Debug\Recogida de datos.pdb
+F:\DI\di\Tema10\Recogida de datos\Recogida de datos\obj\Debug\Recogida de datos.exe.config

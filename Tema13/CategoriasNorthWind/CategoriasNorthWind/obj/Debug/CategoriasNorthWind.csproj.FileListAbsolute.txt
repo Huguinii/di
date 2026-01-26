@@ -1,0 +1,11 @@
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasNorthWind\bin\Debug\CategoriasNorthWind.exe.config
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasNorthWind\bin\Debug\CategoriasNorthWind.exe
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasNorthWind\bin\Debug\CategoriasNorthWind.pdb
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasNorthWind\obj\Debug\CategoriasNorthWind.csproj.AssemblyReference.cache
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasNorthWind\obj\Debug\CategoriasNorthWind.Form1.resources
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasNorthWind\obj\Debug\CategoriasNorthWind.Properties.Resources.resources
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasNorthWind\obj\Debug\CategoriasNorthWind.csproj.GenerateResource.cache
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasNorthWind\obj\Debug\CategoriasNorthWind.csproj.CoreCompileInputs.cache
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasNorthWind\obj\Debug\CategoriasNorthWind.exe
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasNorthWind\obj\Debug\CategoriasNorthWind.pdb
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasNorthWind\obj\Debug\CategoriasNorthWind.exe.config

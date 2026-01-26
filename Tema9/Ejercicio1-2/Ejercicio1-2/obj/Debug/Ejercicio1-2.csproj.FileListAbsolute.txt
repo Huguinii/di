@@ -1,0 +1,13 @@
+F:\DI\di\Tema9\Ejercicio1-2\Ejercicio1-2\bin\Debug\Ejercicio1-2.exe.config
+F:\DI\di\Tema9\Ejercicio1-2\Ejercicio1-2\bin\Debug\Ejercicio1-2.exe
+F:\DI\di\Tema9\Ejercicio1-2\Ejercicio1-2\bin\Debug\Ejercicio1-2.pdb
+F:\DI\di\Tema9\Ejercicio1-2\Ejercicio1-2\obj\Debug\Ejercicio1-2.csproj.AssemblyReference.cache
+F:\DI\di\Tema9\Ejercicio1-2\Ejercicio1-2\obj\Debug\Ejercicio1_2.Form1.resources
+F:\DI\di\Tema9\Ejercicio1-2\Ejercicio1-2\obj\Debug\Ejercicio1_2.Form2.resources
+F:\DI\di\Tema9\Ejercicio1-2\Ejercicio1-2\obj\Debug\Ejercicio1_2.Form3.resources
+F:\DI\di\Tema9\Ejercicio1-2\Ejercicio1-2\obj\Debug\Ejercicio1_2.Properties.Resources.resources
+F:\DI\di\Tema9\Ejercicio1-2\Ejercicio1-2\obj\Debug\Ejercicio1-2.csproj.GenerateResource.cache
+F:\DI\di\Tema9\Ejercicio1-2\Ejercicio1-2\obj\Debug\Ejercicio1-2.csproj.CoreCompileInputs.cache
+F:\DI\di\Tema9\Ejercicio1-2\Ejercicio1-2\obj\Debug\Ejercicio1-2.exe
+F:\DI\di\Tema9\Ejercicio1-2\Ejercicio1-2\obj\Debug\Ejercicio1-2.pdb
+F:\DI\di\Tema9\Ejercicio1-2\Ejercicio1-2\obj\Debug\Ejercicio1-2.exe.config

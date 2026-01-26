@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DI\\di\\Tema10\\Recogida de datos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2FD8B5-32B7-43B8-AF94-01934BA5E4A9}|Recogida de datos\\Recogida de datos.csproj|f:\\di\\di\\tema10\\recogida de datos\\recogida de datos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E2FD8B5-32B7-43B8-AF94-01934BA5E4A9}|Recogida de datos\\Recogida de datos.csproj|solutionrelative:recogida de datos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E2FD8B5-32B7-43B8-AF94-01934BA5E4A9}|Recogida de datos\\Recogida de datos.csproj|f:\\di\\di\\tema10\\recogida de datos\\recogida de datos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E2FD8B5-32B7-43B8-AF94-01934BA5E4A9}|Recogida de datos\\Recogida de datos.csproj|solutionrelative:recogida de datos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\DI\\di\\Tema10\\Recogida de datos\\Recogida de datos\\Form1.cs",
+              "RelativeDocumentMoniker": "Recogida de datos\\Form1.cs",
+              "ToolTip": "F:\\DI\\di\\Tema10\\Recogida de datos\\Recogida de datos\\Form1.cs",
+              "RelativeToolTip": "Recogida de datos\\Form1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAgwEoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T10:05:57.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\DI\\di\\Tema10\\Recogida de datos\\Recogida de datos\\Form1.cs",
+              "RelativeDocumentMoniker": "Recogida de datos\\Form1.cs",
+              "ToolTip": "F:\\DI\\di\\Tema10\\Recogida de datos\\Recogida de datos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Recogida de datos\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T09:59:59.716Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

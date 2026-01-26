@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DI\\di\\Tema10\\Ejercicio Control TabControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F75AEA5-D07D-4749-858D-685DF3EED181}|Ejercicio Control TabControl\\Ejercicio Control TabControl.csproj|f:\\di\\di\\tema10\\ejercicio control tabcontrol\\ejercicio control tabcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F75AEA5-D07D-4749-858D-685DF3EED181}|Ejercicio Control TabControl\\Ejercicio Control TabControl.csproj|solutionrelative:ejercicio control tabcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F75AEA5-D07D-4749-858D-685DF3EED181}|Ejercicio Control TabControl\\Ejercicio Control TabControl.csproj|f:\\di\\di\\tema10\\ejercicio control tabcontrol\\ejercicio control tabcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F75AEA5-D07D-4749-858D-685DF3EED181}|Ejercicio Control TabControl\\Ejercicio Control TabControl.csproj|solutionrelative:ejercicio control tabcontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\DI\\di\\Tema10\\Ejercicio Control TabControl\\Ejercicio Control TabControl\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio Control TabControl\\Form1.cs",
+              "ToolTip": "F:\\DI\\di\\Tema10\\Ejercicio Control TabControl\\Ejercicio Control TabControl\\Form1.cs*",
+              "RelativeToolTip": "Ejercicio Control TabControl\\Form1.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:17:25.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\DI\\di\\Tema10\\Ejercicio Control TabControl\\Ejercicio Control TabControl\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio Control TabControl\\Form1.cs",
+              "ToolTip": "F:\\DI\\di\\Tema10\\Ejercicio Control TabControl\\Ejercicio Control TabControl\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Ejercicio Control TabControl\\Form1.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:08:28.057Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
