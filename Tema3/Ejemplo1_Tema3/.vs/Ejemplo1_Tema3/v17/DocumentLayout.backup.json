@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\DI\\Tema3\\Ejemplo1_Tema3\\",
+  "WorkspaceRootPath": "F:\\DI\\di\\Tema3\\Ejemplo1_Tema3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72103DE7-0E0F-47AC-A016-9070B0E8EC2E}|Ejemplo1_Tema3\\Ejemplo1_Tema3.csproj|f:\\di\\tema3\\ejemplo1_tema3\\ejemplo1_tema3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72103DE7-0E0F-47AC-A016-9070B0E8EC2E}|Ejemplo1_Tema3\\Ejemplo1_Tema3.csproj|solutionrelative:ejemplo1_tema3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72103DE7-0E0F-47AC-A016-9070B0E8EC2E}|Ejemplo1_Tema3\\Ejemplo1_Tema3.csproj|F:\\DI\\di\\Tema3\\Ejemplo1_Tema3\\ejemplo1_tema3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72103DE7-0E0F-47AC-A016-9070B0E8EC2E}|Ejemplo1_Tema3\\Ejemplo1_Tema3.csproj|solutionrelative:ejemplo1_tema3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72103DE7-0E0F-47AC-A016-9070B0E8EC2E}|Ejemplo1_Tema3\\Ejemplo1_Tema3.csproj|F:\\DI\\Tema3\\Ejemplo1_Tema3\\ejemplo1_tema3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72103DE7-0E0F-47AC-A016-9070B0E8EC2E}|Ejemplo1_Tema3\\Ejemplo1_Tema3.csproj|F:\\DI\\di\\Tema3\\Ejemplo1_Tema3\\ejemplo1_tema3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72103DE7-0E0F-47AC-A016-9070B0E8EC2E}|Ejemplo1_Tema3\\Ejemplo1_Tema3.csproj|solutionrelative:ejemplo1_tema3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72103DE7-0E0F-47AC-A016-9070B0E8EC2E}|Ejemplo1_Tema3\\Ejemplo1_Tema3.csproj|F:\\DI\\Tema3\\Ejemplo1_Tema3\\ejemplo1_tema3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{72103DE7-0E0F-47AC-A016-9070B0E8EC2E}|Ejemplo1_Tema3\\Ejemplo1_Tema3.csproj|solutionrelative:ejemplo1_tema3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{72103DE7-0E0F-47AC-A016-9070B0E8EC2E}|Ejemplo1_Tema3\\Ejemplo1_Tema3.csproj|f:\\di\\di\\tema3\\ejemplo1_tema3\\ejemplo1_tema3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72103DE7-0E0F-47AC-A016-9070B0E8EC2E}|Ejemplo1_Tema3\\Ejemplo1_Tema3.csproj|solutionrelative:ejemplo1_tema3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\DI\\Tema3\\Ejemplo1_Tema3\\Ejemplo1_Tema3\\Program.cs",
+              "DocumentMoniker": "F:\\DI\\di\\Tema3\\Ejemplo1_Tema3\\Ejemplo1_Tema3\\Program.cs",
               "RelativeDocumentMoniker": "Ejemplo1_Tema3\\Program.cs",
-              "ToolTip": "F:\\DI\\Tema3\\Ejemplo1_Tema3\\Ejemplo1_Tema3\\Program.cs",
+              "ToolTip": "F:\\DI\\di\\Tema3\\Ejemplo1_Tema3\\Ejemplo1_Tema3\\Program.cs",
               "RelativeToolTip": "Ejemplo1_Tema3\\Program.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAkwBoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,24 +41,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "F:\\DI\\Tema3\\Ejemplo1_Tema3\\Ejemplo1_Tema3\\Form1.cs",
+              "DocumentMoniker": "F:\\DI\\di\\Tema3\\Ejemplo1_Tema3\\Ejemplo1_Tema3\\Form1.cs",
               "RelativeDocumentMoniker": "Ejemplo1_Tema3\\Form1.cs",
-              "ToolTip": "F:\\DI\\Tema3\\Ejemplo1_Tema3\\Ejemplo1_Tema3\\Form1.cs",
+              "ToolTip": "F:\\DI\\di\\Tema3\\Ejemplo1_Tema3\\Ejemplo1_Tema3\\Form1.cs",
               "RelativeToolTip": "Ejemplo1_Tema3\\Form1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:06:36.74Z"
+              "WhenOpened": "2025-10-21T10:06:36.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "F:\\DI\\Tema3\\Ejemplo1_Tema3\\Ejemplo1_Tema3\\Form1.cs",
+              "DocumentMoniker": "F:\\DI\\di\\Tema3\\Ejemplo1_Tema3\\Ejemplo1_Tema3\\Form1.cs",
               "RelativeDocumentMoniker": "Ejemplo1_Tema3\\Form1.cs",
-              "ToolTip": "F:\\DI\\Tema3\\Ejemplo1_Tema3\\Ejemplo1_Tema3\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "F:\\DI\\di\\Tema3\\Ejemplo1_Tema3\\Ejemplo1_Tema3\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Ejemplo1_Tema3\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T10:06:23.037Z"
+              "WhenOpened": "2025-10-21T10:06:23.037Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

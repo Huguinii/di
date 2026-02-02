@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{D39178B4-CE6C-4D67-AB52-EA56F32EBA3D}|PruebaConexion\\PruebaConexion.csproj|solutionrelative:pruebaconexion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D39178B4-CE6C-4D67-AB52-EA56F32EBA3D}|PruebaConexion\\PruebaConexion.csproj|f:\\di\\di\\tema13\\categoriasnorthwind\\pruebaconexion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D39178B4-CE6C-4D67-AB52-EA56F32EBA3D}|PruebaConexion\\PruebaConexion.csproj|F:\\DI\\di\\Tema13\\CategoriasNorthWind\\pruebaconexion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D39178B4-CE6C-4D67-AB52-EA56F32EBA3D}|PruebaConexion\\PruebaConexion.csproj|solutionrelative:pruebaconexion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD74CEDB-ACBC-4F41-BE1F-BC3869A3D477}|CategoriasConCodigo\\CategoriasConCodigo.csproj|f:\\di\\di\\tema13\\categoriasnorthwind\\categoriasconcodigo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FD74CEDB-ACBC-4F41-BE1F-BC3869A3D477}|CategoriasConCodigo\\CategoriasConCodigo.csproj|solutionrelative:categoriasconcodigo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD74CEDB-ACBC-4F41-BE1F-BC3869A3D477}|CategoriasConCodigo\\CategoriasConCodigo.csproj|F:\\DI\\di\\Tema13\\CategoriasNorthWind\\categoriasconcodigo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD74CEDB-ACBC-4F41-BE1F-BC3869A3D477}|CategoriasConCodigo\\CategoriasConCodigo.csproj|solutionrelative:categoriasconcodigo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD74CEDB-ACBC-4F41-BE1F-BC3869A3D477}|CategoriasConCodigo\\CategoriasConCodigo.csproj|f:\\di\\di\\tema13\\categoriasnorthwind\\categoriasconcodigo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FD74CEDB-ACBC-4F41-BE1F-BC3869A3D477}|CategoriasConCodigo\\CategoriasConCodigo.csproj|solutionrelative:categoriasconcodigo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FD74CEDB-ACBC-4F41-BE1F-BC3869A3D477}|CategoriasConCodigo\\CategoriasConCodigo.csproj|F:\\DI\\di\\Tema13\\CategoriasNorthWind\\categoriasconcodigo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD74CEDB-ACBC-4F41-BE1F-BC3869A3D477}|CategoriasConCodigo\\CategoriasConCodigo.csproj|solutionrelative:categoriasconcodigo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "PruebaConexion\\Form1.cs",
               "ToolTip": "F:\\DI\\di\\Tema13\\CategoriasNorthWind\\PruebaConexion\\Form1.cs",
               "RelativeToolTip": "PruebaConexion\\Form1.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAIA1wC4AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAjwC4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T11:19:44.779Z",
               "EditorCaption": ""
@@ -55,20 +55,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "F:\\DI\\di\\Tema13\\CategoriasNorthWind\\CategoriasConCodigo\\Form1.cs",
               "RelativeDocumentMoniker": "CategoriasConCodigo\\Form1.cs",
               "ToolTip": "F:\\DI\\di\\Tema13\\CategoriasNorthWind\\CategoriasConCodigo\\Form1.cs",
               "RelativeToolTip": "CategoriasConCodigo\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAArwCwAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA6wCwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T10:56:15.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "F:\\DI\\di\\Tema13\\CategoriasNorthWind\\CategoriasConCodigo\\Form1.cs",
               "RelativeDocumentMoniker": "CategoriasConCodigo\\Form1.cs",

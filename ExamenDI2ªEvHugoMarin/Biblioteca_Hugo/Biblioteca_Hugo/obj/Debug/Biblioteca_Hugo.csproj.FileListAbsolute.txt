@@ -1,0 +1,11 @@
+F:\ExamenDI2ªEvHugoMarin\Biblioteca_Hugo\Biblioteca_Hugo\bin\Debug\Biblioteca_Hugo.exe.config
+F:\ExamenDI2ªEvHugoMarin\Biblioteca_Hugo\Biblioteca_Hugo\bin\Debug\Biblioteca_Hugo.exe
+F:\ExamenDI2ªEvHugoMarin\Biblioteca_Hugo\Biblioteca_Hugo\bin\Debug\Biblioteca_Hugo.pdb
+F:\ExamenDI2ªEvHugoMarin\Biblioteca_Hugo\Biblioteca_Hugo\obj\Debug\Biblioteca_Hugo.csproj.AssemblyReference.cache
+F:\ExamenDI2ªEvHugoMarin\Biblioteca_Hugo\Biblioteca_Hugo\obj\Debug\Biblioteca_Hugo.Form1.resources
+F:\ExamenDI2ªEvHugoMarin\Biblioteca_Hugo\Biblioteca_Hugo\obj\Debug\Biblioteca_Hugo.Properties.Resources.resources
+F:\ExamenDI2ªEvHugoMarin\Biblioteca_Hugo\Biblioteca_Hugo\obj\Debug\Biblioteca_Hugo.csproj.GenerateResource.cache
+F:\ExamenDI2ªEvHugoMarin\Biblioteca_Hugo\Biblioteca_Hugo\obj\Debug\Biblioteca_Hugo.csproj.CoreCompileInputs.cache
+F:\ExamenDI2ªEvHugoMarin\Biblioteca_Hugo\Biblioteca_Hugo\obj\Debug\Biblioteca_Hugo.exe
+F:\ExamenDI2ªEvHugoMarin\Biblioteca_Hugo\Biblioteca_Hugo\obj\Debug\Biblioteca_Hugo.pdb
+F:\ExamenDI2ªEvHugoMarin\Biblioteca_Hugo\Biblioteca_Hugo\obj\Debug\Biblioteca_Hugo.exe.config
