@@ -1,0 +1,11 @@
+F:\DI\di\Tema15\VerDocumentacion\VerDocumentacion\bin\Debug\VerDocumentacion.exe.config
+F:\DI\di\Tema15\VerDocumentacion\VerDocumentacion\bin\Debug\VerDocumentacion.exe
+F:\DI\di\Tema15\VerDocumentacion\VerDocumentacion\bin\Debug\VerDocumentacion.pdb
+F:\DI\di\Tema15\VerDocumentacion\VerDocumentacion\obj\Debug\VerDocumentacion.csproj.AssemblyReference.cache
+F:\DI\di\Tema15\VerDocumentacion\VerDocumentacion\obj\Debug\VerDocumentacion.Form1.resources
+F:\DI\di\Tema15\VerDocumentacion\VerDocumentacion\obj\Debug\VerDocumentacion.Properties.Resources.resources
+F:\DI\di\Tema15\VerDocumentacion\VerDocumentacion\obj\Debug\VerDocumentacion.csproj.GenerateResource.cache
+F:\DI\di\Tema15\VerDocumentacion\VerDocumentacion\obj\Debug\VerDocumentacion.csproj.CoreCompileInputs.cache
+F:\DI\di\Tema15\VerDocumentacion\VerDocumentacion\obj\Debug\VerDocumentacion.exe
+F:\DI\di\Tema15\VerDocumentacion\VerDocumentacion\obj\Debug\VerDocumentacion.pdb
+F:\DI\di\Tema15\VerDocumentacion\VerDocumentacion\obj\Debug\VerDocumentacion.exe.config
