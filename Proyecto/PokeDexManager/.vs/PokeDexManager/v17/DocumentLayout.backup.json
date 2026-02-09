@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DI\\Proyecto\\PokeDexManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|f:\\di\\proyecto\\pokedexmanager\\pokedexmanager\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|f:\\di\\proyecto\\pokedexmanager\\pokedexmanager\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|f:\\di\\proyecto\\pokedexmanager\\pokedexmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|f:\\di\\proyecto\\pokedexmanager\\pokedexmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DI\\Proyecto\\PokeDexManager\\PokeDexManager\\Program.cs",
+              "RelativeDocumentMoniker": "PokeDexManager\\Program.cs",
+              "ToolTip": "F:\\DI\\Proyecto\\PokeDexManager\\PokeDexManager\\Program.cs",
+              "RelativeToolTip": "PokeDexManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T11:13:03.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SplashScreen.cs",
+              "DocumentMoniker": "F:\\DI\\Proyecto\\PokeDexManager\\PokeDexManager\\SplashScreen.cs",
+              "RelativeDocumentMoniker": "PokeDexManager\\SplashScreen.cs",
+              "ToolTip": "F:\\DI\\Proyecto\\PokeDexManager\\PokeDexManager\\SplashScreen.cs",
+              "RelativeToolTip": "PokeDexManager\\SplashScreen.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T11:05:49.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SplashScreen.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\DI\\Proyecto\\PokeDexManager\\PokeDexManager\\SplashScreen.cs",
+              "RelativeDocumentMoniker": "PokeDexManager\\SplashScreen.cs",
+              "ToolTip": "F:\\DI\\Proyecto\\PokeDexManager\\PokeDexManager\\SplashScreen.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PokeDexManager\\SplashScreen.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T09:37:12.278Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\DI\\Proyecto\\PokeDexManager\\PokeDexManager\\Form1.cs",
+              "RelativeDocumentMoniker": "PokeDexManager\\Form1.cs",
+              "ToolTip": "F:\\DI\\Proyecto\\PokeDexManager\\PokeDexManager\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PokeDexManager\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T09:35:25.18Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
