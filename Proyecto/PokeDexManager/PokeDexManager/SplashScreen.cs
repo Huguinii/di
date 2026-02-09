@@ -16,6 +16,7 @@ namespace PokeDexManager
         {
             InitializeComponent();
         }
+
         private void SplashScreen_Load(object sender, EventArgs e)
         {
             progressBar1.Value = 0;
@@ -32,12 +33,12 @@ namespace PokeDexManager
             {
                 timer1.Stop();
 
-                Form1 mainForm = new Form1();
+                PokeDexManager mainForm = new PokeDexManager();
                 mainForm.Show();
 
                 this.Hide();
             }
         }
-
     }
+
 }

@@ -9,3 +9,13 @@ F:\DI\di\Tema15\VerDocumentacion\VerDocumentacion\obj\Debug\VerDocumentacion.csp
 F:\DI\di\Tema15\VerDocumentacion\VerDocumentacion\obj\Debug\VerDocumentacion.exe
 F:\DI\di\Tema15\VerDocumentacion\VerDocumentacion\obj\Debug\VerDocumentacion.pdb
 F:\DI\di\Tema15\VerDocumentacion\VerDocumentacion\obj\Debug\VerDocumentacion.exe.config
+C:\Users\Hugo\Desarrollo de interfaces\di\Tema15\VerDocumentacion\VerDocumentacion\bin\Debug\VerDocumentacion.exe.config
+C:\Users\Hugo\Desarrollo de interfaces\di\Tema15\VerDocumentacion\VerDocumentacion\bin\Debug\VerDocumentacion.exe
+C:\Users\Hugo\Desarrollo de interfaces\di\Tema15\VerDocumentacion\VerDocumentacion\bin\Debug\VerDocumentacion.pdb
+C:\Users\Hugo\Desarrollo de interfaces\di\Tema15\VerDocumentacion\VerDocumentacion\obj\Debug\VerDocumentacion.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desarrollo de interfaces\di\Tema15\VerDocumentacion\VerDocumentacion\obj\Debug\VerDocumentacion.Form1.resources
+C:\Users\Hugo\Desarrollo de interfaces\di\Tema15\VerDocumentacion\VerDocumentacion\obj\Debug\VerDocumentacion.Properties.Resources.resources
+C:\Users\Hugo\Desarrollo de interfaces\di\Tema15\VerDocumentacion\VerDocumentacion\obj\Debug\VerDocumentacion.csproj.GenerateResource.cache
+C:\Users\Hugo\Desarrollo de interfaces\di\Tema15\VerDocumentacion\VerDocumentacion\obj\Debug\VerDocumentacion.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desarrollo de interfaces\di\Tema15\VerDocumentacion\VerDocumentacion\obj\Debug\VerDocumentacion.exe
+C:\Users\Hugo\Desarrollo de interfaces\di\Tema15\VerDocumentacion\VerDocumentacion\obj\Debug\VerDocumentacion.pdb
