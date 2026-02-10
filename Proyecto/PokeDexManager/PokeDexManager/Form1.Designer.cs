@@ -203,6 +203,7 @@
             // 
             // PokeDexManager
             // 
+            this.AllowDrop = true;
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::PokeDexManager.Properties.Resources.BackgroundMenu;
@@ -211,7 +212,6 @@
             this.Controls.Add(this.menuBar);
             this.DoubleBuffered = true;
             this.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.MainMenuStrip = this.menuBar;
             this.Name = "PokeDexManager";
             this.menuBar.ResumeLayout(false);

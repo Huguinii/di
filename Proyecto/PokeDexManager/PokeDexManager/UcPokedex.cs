@@ -29,34 +29,40 @@ namespace PokeDexManager
 
         private void RellenarTipos()
         {
+            
             var adapter = new ProyectoPokemonDataSetTableAdapters.TipoTableAdapter();
 
-            string[] tiposPokemon =
+            if(adapter.ExistenTipos() <= 0)
             {
-                "Normal",
-                "Lucha",
-                "Volador",
-                "Veneno",
-                "Tierra",
-                "Roca",
-                "Bicho",
-                "Fantasma",
-                "Acero",
-                "Fuego",
-                "Agua",
-                "Planta",
-                "Electrico",
-                "Psiquico",
-                "Hielo",
-                "Dragon",
-                "Siniestro",
-                "Hada"
-            };
+                string[] tiposPokemon =
+                {
+                    "Normal",
+                    "Lucha",
+                    "Volador",
+                    "Veneno",
+                    "Tierra",
+                    "Roca",
+                    "Bicho",
+                    "Fantasma",
+                    "Acero",
+                    "Fuego",
+                    "Agua",
+                    "Planta",
+                    "Electrico",
+                    "Psiquico",
+                    "Hielo",
+                    "Dragon",
+                    "Siniestro",
+                    "Hada"
+                };
 
-            foreach (string tipo in tiposPokemon)
-            {
-                adapter.InsertTipo(tipo);
+                foreach (string tipo in tiposPokemon)
+                {
+                    adapter.InsertTipo(tipo);
+                }
             }
+
+            
         }
 
 
@@ -66,8 +72,8 @@ namespace PokeDexManager
             var tablaTipos = tipoTA.GetData();
 
             cmbTipos.DataSource = tablaTipos;
-            cmbTipos.DisplayMember = "Nombre";   // AJUSTA al nombre real
-            cmbTipos.ValueMember = "IdTipo";     // AJUSTA al nombre real
+            cmbTipos.DisplayMember = "Nombre";   
+            cmbTipos.ValueMember = "IdTipo";     
             cmbTipos.SelectedIndex = -1;
         }
 
@@ -94,5 +100,10 @@ namespace PokeDexManager
             dgvPokedex.DataSource = vista;
         }
 
+        private void btnNuevoPokemon_Click(object sender, EventArgs e)
+        {
+            NuevoPokemon pokemonNuevo = new NuevoPokemon();
+            pokemonNuevo.ShowDialog();
+        }
     }
 }

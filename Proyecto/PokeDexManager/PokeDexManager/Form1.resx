@@ -121,53 +121,17 @@
     <value>17, 17</value>
   </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="salirToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>96, 22</value>
-  </data>
-  <data name="salirToolStripMenuItem.Text" xml:space="preserve">
-    <value>Salir</value>
-  </data>
-  <data name="salirToolStripMenuItem.ToolTipText" xml:space="preserve">
-    <value>Sale del programa</value>
-  </data>
   <data name="archivoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>60, 20</value>
   </data>
   <data name="archivoToolStripMenuItem.Text" xml:space="preserve">
     <value>Archivo</value>
   </data>
-  <data name="verPokedexToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>172, 22</value>
-  </data>
-  <data name="verPokedexToolStripMenuItem.Text" xml:space="preserve">
-    <value>Ver Pokedex</value>
-  </data>
-  <data name="verPokedexToolStripMenuItem.ToolTipText" xml:space="preserve">
-    <value>Muestra la pokedex</value>
-  </data>
-  <data name="registrarCombateToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>172, 22</value>
-  </data>
-  <data name="registrarCombateToolStripMenuItem.Text" xml:space="preserve">
-    <value>Registrar Combate</value>
-  </data>
-  <data name="registrarCombateToolStripMenuItem.ToolTipText" xml:space="preserve">
-    <value>Registra el combate entre dos pokemons</value>
-  </data>
   <data name="pokemonToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>70, 20</value>
   </data>
   <data name="pokemonToolStripMenuItem.Text" xml:space="preserve">
     <value>Pokemon</value>
-  </data>
-  <data name="acercaDeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>126, 22</value>
-  </data>
-  <data name="acercaDeToolStripMenuItem.Text" xml:space="preserve">
-    <value>Acerca de</value>
-  </data>
-  <data name="acercaDeToolStripMenuItem.ToolTipText" xml:space="preserve">
-    <value>Acerca del programa</value>
   </data>
   <data name="ayudaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>53, 20</value>
@@ -200,21 +164,45 @@
   <data name="&gt;&gt;menuBar.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
+  <data name="salirToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 22</value>
+  </data>
+  <data name="salirToolStripMenuItem.Text" xml:space="preserve">
+    <value>Salir</value>
+  </data>
+  <data name="salirToolStripMenuItem.ToolTipText" xml:space="preserve">
+    <value>Sale del programa</value>
+  </data>
+  <data name="verPokedexToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>172, 22</value>
+  </data>
+  <data name="verPokedexToolStripMenuItem.Text" xml:space="preserve">
+    <value>Ver Pokedex</value>
+  </data>
+  <data name="verPokedexToolStripMenuItem.ToolTipText" xml:space="preserve">
+    <value>Muestra la pokedex</value>
+  </data>
+  <data name="registrarCombateToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>172, 22</value>
+  </data>
+  <data name="registrarCombateToolStripMenuItem.Text" xml:space="preserve">
+    <value>Registrar Combate</value>
+  </data>
+  <data name="registrarCombateToolStripMenuItem.ToolTipText" xml:space="preserve">
+    <value>Registra el combate entre dos pokemons</value>
+  </data>
+  <data name="acercaDeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>126, 22</value>
+  </data>
+  <data name="acercaDeToolStripMenuItem.Text" xml:space="preserve">
+    <value>Acerca de</value>
+  </data>
+  <data name="acercaDeToolStripMenuItem.ToolTipText" xml:space="preserve">
+    <value>Acerca del programa</value>
+  </data>
   <metadata name="statusBar.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>132, 17</value>
   </metadata>
-  <data name="tsslListo.Size" type="System.Drawing.Size, System.Drawing">
-    <value>32, 17</value>
-  </data>
-  <data name="tsslListo.Text" xml:space="preserve">
-    <value>Listo</value>
-  </data>
-  <data name="tsslPokemonCargados.Size" type="System.Drawing.Size, System.Drawing">
-    <value>112, 17</value>
-  </data>
-  <data name="tsslPokemonCargados.Text" xml:space="preserve">
-    <value>Pokemon cargados:</value>
-  </data>
   <data name="statusBar.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 428</value>
   </data>
@@ -239,9 +227,30 @@
   <data name="&gt;&gt;statusBar.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
+  <data name="tsslListo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 17</value>
+  </data>
+  <data name="tsslListo.Text" xml:space="preserve">
+    <value>Listo</value>
+  </data>
+  <data name="tsslPokemonCargados.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 17</value>
+  </data>
+  <data name="tsslPokemonCargados.Text" xml:space="preserve">
+    <value>Pokemon cargados:</value>
+  </data>
   <metadata name="cxtMenuPokemon.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>234, 17</value>
   </metadata>
+  <data name="cxtMenuPokemon.Size" type="System.Drawing.Size, System.Drawing">
+    <value>148, 92</value>
+  </data>
+  <data name="&gt;&gt;cxtMenuPokemon.Name" xml:space="preserve">
+    <value>cxtMenuPokemon</value>
+  </data>
+  <data name="&gt;&gt;cxtMenuPokemon.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="tsmiVerDetalles.Size" type="System.Drawing.Size, System.Drawing">
     <value>147, 22</value>
   </data>
@@ -266,18 +275,18 @@
   <data name="tsmiVerCombates.Text" xml:space="preserve">
     <value>Ver Combates</value>
   </data>
-  <data name="cxtMenuPokemon.Size" type="System.Drawing.Size, System.Drawing">
-    <value>148, 92</value>
-  </data>
-  <data name="&gt;&gt;cxtMenuPokemon.Name" xml:space="preserve">
-    <value>cxtMenuPokemon</value>
-  </data>
-  <data name="&gt;&gt;cxtMenuPokemon.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <metadata name="cxtMenuFiltro.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>371, 20</value>
   </metadata>
+  <data name="cxtMenuFiltro.Size" type="System.Drawing.Size, System.Drawing">
+    <value>182, 106</value>
+  </data>
+  <data name="&gt;&gt;cxtMenuFiltro.Name" xml:space="preserve">
+    <value>cxtMenuFiltro</value>
+  </data>
+  <data name="&gt;&gt;cxtMenuFiltro.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="tscbFiltrarPorTipo.Size" type="System.Drawing.Size, System.Drawing">
     <value>121, 23</value>
   </data>
@@ -298,15 +307,6 @@
   </data>
   <data name="tstbPokemonPorVictorias.Size" type="System.Drawing.Size, System.Drawing">
     <value>100, 23</value>
-  </data>
-  <data name="cxtMenuFiltro.Size" type="System.Drawing.Size, System.Drawing">
-    <value>182, 106</value>
-  </data>
-  <data name="&gt;&gt;cxtMenuFiltro.Name" xml:space="preserve">
-    <value>cxtMenuFiltro</value>
-  </data>
-  <data name="&gt;&gt;cxtMenuFiltro.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <metadata name="ttip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>499, 20</value>
@@ -337,13 +337,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;panelContenido.ZOrder" xml:space="preserve">
-    <value>0</value>
+    <value>2</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>6, 13</value>
+  </data>
+  <data name="$this.AutoScroll" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="$this.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="$this.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>Stretch</value>

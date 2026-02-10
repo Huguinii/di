@@ -31,11 +31,15 @@
             this.dgvPokedex = new System.Windows.Forms.DataGridView();
             this.cmbTipos = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.btnNuevoPokemon = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPokedex)).BeginInit();
             this.SuspendLayout();
             // 
             // dgvPokedex
             // 
+            this.dgvPokedex.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.dgvPokedex.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvPokedex.Location = new System.Drawing.Point(0, 64);
             this.dgvPokedex.Name = "dgvPokedex";
@@ -61,15 +65,31 @@
             this.label1.TabIndex = 2;
             this.label1.Text = "Filtrar por tipo:";
             // 
+            // btnNuevoPokemon
+            // 
+            this.btnNuevoPokemon.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnNuevoPokemon.BackColor = System.Drawing.Color.IndianRed;
+            this.btnNuevoPokemon.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnNuevoPokemon.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnNuevoPokemon.Location = new System.Drawing.Point(501, 21);
+            this.btnNuevoPokemon.Name = "btnNuevoPokemon";
+            this.btnNuevoPokemon.Size = new System.Drawing.Size(174, 37);
+            this.btnNuevoPokemon.TabIndex = 3;
+            this.btnNuevoPokemon.Text = "Nuevo Pokemon";
+            this.btnNuevoPokemon.UseVisualStyleBackColor = false;
+            this.btnNuevoPokemon.Click += new System.EventHandler(this.btnNuevoPokemon_Click);
+            // 
             // UcPokedex
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSize = true;
+            this.Controls.Add(this.btnNuevoPokemon);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.cmbTipos);
             this.Controls.Add(this.dgvPokedex);
             this.Name = "UcPokedex";
-            this.Size = new System.Drawing.Size(800, 404);
+            this.Size = new System.Drawing.Size(803, 407);
             this.Load += new System.EventHandler(this.UcPokedex_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvPokedex)).EndInit();
             this.ResumeLayout(false);
@@ -82,5 +102,6 @@
         private System.Windows.Forms.DataGridView dgvPokedex;
         private System.Windows.Forms.ComboBox cmbTipos;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btnNuevoPokemon;
     }
 }

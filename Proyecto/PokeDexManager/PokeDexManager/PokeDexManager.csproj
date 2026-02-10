@@ -52,12 +52,21 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="NuevoPokemon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoPokemon.Designer.cs">
+      <DependentUpon>NuevoPokemon.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ProyectoPokemonDataSet.cs">
+      <DependentUpon>ProyectoPokemonDataSet.xsd</DependentUpon>
     </Compile>
     <Compile Include="ProyectoPokemonDataSet.Designer.cs">
       <AutoGen>True</AutoGen>
@@ -93,6 +102,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoPokemon.resx">
+      <DependentUpon>NuevoPokemon.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
