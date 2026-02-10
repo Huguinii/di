@@ -1,29 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hugo\\Desarrollo de interfaces\\di\\Proyecto\\PokeDexManager\\",
+  "WorkspaceRootPath": "F:\\DI\\di\\Proyecto\\PokeDexManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|c:\\users\\hugo\\desarrollo de interfaces\\di\\proyecto\\pokedexmanager\\pokedexmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|f:\\di\\di\\proyecto\\pokedexmanager\\pokedexmanager\\ucpokedex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\ucpokedex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|f:\\di\\di\\proyecto\\pokedexmanager\\pokedexmanager\\proyectopokemondataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\proyectopokemondataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|f:\\di\\di\\proyecto\\pokedexmanager\\pokedexmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|C:\\Users\\Hugo\\Desarrollo de interfaces\\di\\Proyecto\\PokeDexManager\\pokedexmanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|f:\\di\\di\\proyecto\\pokedexmanager\\pokedexmanager\\uctipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\uctipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|c:\\users\\hugo\\desarrollo de interfaces\\di\\proyecto\\pokedexmanager\\pokedexmanager\\formpokedex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\formpokedex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|f:\\di\\di\\proyecto\\pokedexmanager\\pokedexmanager\\uccombates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\uccombates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|c:\\users\\hugo\\desarrollo de interfaces\\di\\proyecto\\pokedexmanager\\pokedexmanager\\formpokedex.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\formpokedex.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|f:\\di\\di\\proyecto\\pokedexmanager\\pokedexmanager\\ucpokedex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\ucpokedex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|c:\\users\\hugo\\desarrollo de interfaces\\di\\proyecto\\pokedexmanager\\pokedexmanager\\formpokedex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\formpokedex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|C:\\Users\\Hugo\\Desarrollo de interfaces\\di\\Proyecto\\PokeDexManager\\pokedexmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|F:\\DI\\di\\Proyecto\\PokeDexManager\\pokedexmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,75 +46,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormPokedex.cs",
-              "DocumentMoniker": "C:\\Users\\Hugo\\Desarrollo de interfaces\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\FormPokedex.cs",
-              "RelativeDocumentMoniker": "PokeDexManager\\FormPokedex.cs",
-              "ToolTip": "C:\\Users\\Hugo\\Desarrollo de interfaces\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\FormPokedex.cs",
-              "RelativeToolTip": "PokeDexManager\\FormPokedex.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T21:57:20.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormPokedex.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Hugo\\Desarrollo de interfaces\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\FormPokedex.Designer.cs",
-              "RelativeDocumentMoniker": "PokeDexManager\\FormPokedex.Designer.cs",
-              "ToolTip": "C:\\Users\\Hugo\\Desarrollo de interfaces\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\FormPokedex.Designer.cs",
-              "RelativeToolTip": "PokeDexManager\\FormPokedex.Designer.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T21:56:42.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormPokedex.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Hugo\\Desarrollo de interfaces\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\FormPokedex.cs",
-              "RelativeDocumentMoniker": "PokeDexManager\\FormPokedex.cs",
-              "ToolTip": "C:\\Users\\Hugo\\Desarrollo de interfaces\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\FormPokedex.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PokeDexManager\\FormPokedex.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T21:44:29.825Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Hugo\\Desarrollo de interfaces\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "PokeDexManager\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Hugo\\Desarrollo de interfaces\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\Form1.Designer.cs",
-              "RelativeToolTip": "PokeDexManager\\Form1.Designer.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAtwGAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T20:53:17.232Z",
+              "Title": "ProyectoPokemonDataSet.xsd",
+              "DocumentMoniker": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\ProyectoPokemonDataSet.xsd",
+              "RelativeDocumentMoniker": "PokeDexManager\\ProyectoPokemonDataSet.xsd",
+              "ToolTip": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\ProyectoPokemonDataSet.xsd",
+              "RelativeToolTip": "PokeDexManager\\ProyectoPokemonDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2026-02-10T11:21:04.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UcPokedex.cs",
+              "DocumentMoniker": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\UcPokedex.cs",
+              "RelativeDocumentMoniker": "PokeDexManager\\UcPokedex.cs",
+              "ToolTip": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\UcPokedex.cs",
+              "RelativeToolTip": "PokeDexManager\\UcPokedex.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:08:10.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UcPokedex.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\UcPokedex.cs",
+              "RelativeDocumentMoniker": "PokeDexManager\\UcPokedex.cs",
+              "ToolTip": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\UcPokedex.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PokeDexManager\\UcPokedex.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:06:07.441Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UcCombates.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\UcCombates.cs",
+              "RelativeDocumentMoniker": "PokeDexManager\\UcCombates.cs",
+              "ToolTip": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\UcCombates.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PokeDexManager\\UcCombates.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:04:37.375Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UcTipos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\UcTipos.cs",
+              "RelativeDocumentMoniker": "PokeDexManager\\UcTipos.cs",
+              "ToolTip": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\UcTipos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PokeDexManager\\UcTipos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T10:04:27.098Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Hugo\\Desarrollo de interfaces\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\Form1.cs",
+              "DocumentMoniker": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\Form1.cs",
               "RelativeDocumentMoniker": "PokeDexManager\\Form1.cs",
-              "ToolTip": "C:\\Users\\Hugo\\Desarrollo de interfaces\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\Form1.cs",
+              "ToolTip": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\Form1.cs",
               "RelativeToolTip": "PokeDexManager\\Form1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBwAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T20:33:32.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Hugo\\Desarrollo de interfaces\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\Form1.cs",
+              "DocumentMoniker": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\Form1.cs",
               "RelativeDocumentMoniker": "PokeDexManager\\Form1.cs",
-              "ToolTip": "C:\\Users\\Hugo\\Desarrollo de interfaces\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "PokeDexManager\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T09:35:25.18Z",

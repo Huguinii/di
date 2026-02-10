@@ -41,7 +41,6 @@
             this.statusBar = new System.Windows.Forms.StatusStrip();
             this.tsslListo = new System.Windows.Forms.ToolStripStatusLabel();
             this.tsslPokemonCargados = new System.Windows.Forms.ToolStripStatusLabel();
-            this.tsslUsuarioConectado = new System.Windows.Forms.ToolStripStatusLabel();
             this.cxtMenuPokemon = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.tsmiVerDetalles = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmiEditar = new System.Windows.Forms.ToolStripMenuItem();
@@ -53,6 +52,7 @@
             this.tstbPokemonPorNivel = new System.Windows.Forms.ToolStripTextBox();
             this.tstbPokemonPorVictorias = new System.Windows.Forms.ToolStripTextBox();
             this.ttip = new System.Windows.Forms.ToolTip(this.components);
+            this.panelContenido = new System.Windows.Forms.Panel();
             this.menuBar.SuspendLayout();
             this.statusBar.SuspendLayout();
             this.cxtMenuPokemon.SuspendLayout();
@@ -116,8 +116,7 @@
             // 
             this.statusBar.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tsslListo,
-            this.tsslPokemonCargados,
-            this.tsslUsuarioConectado});
+            this.tsslPokemonCargados});
             resources.ApplyResources(this.statusBar, "statusBar");
             this.statusBar.Name = "statusBar";
             // 
@@ -130,11 +129,6 @@
             // 
             this.tsslPokemonCargados.Name = "tsslPokemonCargados";
             resources.ApplyResources(this.tsslPokemonCargados, "tsslPokemonCargados");
-            // 
-            // tsslUsuarioConectado
-            // 
-            this.tsslUsuarioConectado.Name = "tsslUsuarioConectado";
-            resources.ApplyResources(this.tsslUsuarioConectado, "tsslUsuarioConectado");
             // 
             // cxtMenuPokemon
             // 
@@ -201,11 +195,18 @@
             this.ttip.ToolTipIcon = System.Windows.Forms.ToolTipIcon.Info;
             this.ttip.ToolTipTitle = "Ayuda";
             // 
+            // panelContenido
+            // 
+            this.panelContenido.BackgroundImage = global::PokeDexManager.Properties.Resources.BackgroundMenu;
+            resources.ApplyResources(this.panelContenido, "panelContenido");
+            this.panelContenido.Name = "panelContenido";
+            // 
             // PokeDexManager
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::PokeDexManager.Properties.Resources.BackgroundMenu;
+            this.Controls.Add(this.panelContenido);
             this.Controls.Add(this.statusBar);
             this.Controls.Add(this.menuBar);
             this.DoubleBuffered = true;
@@ -239,7 +240,6 @@
         private System.Windows.Forms.ToolStripMenuItem acercaDeToolStripMenuItem;
         private System.Windows.Forms.ToolStripStatusLabel tsslListo;
         private System.Windows.Forms.ToolStripStatusLabel tsslPokemonCargados;
-        private System.Windows.Forms.ToolStripStatusLabel tsslUsuarioConectado;
         private System.Windows.Forms.ToolStripMenuItem tsmiVerDetalles;
         private System.Windows.Forms.ToolStripMenuItem tsmiEditar;
         private System.Windows.Forms.ToolStripMenuItem tsmiEliminar;
@@ -250,6 +250,7 @@
         private System.Windows.Forms.ToolStripTextBox tstbPokemonPorNivel;
         private System.Windows.Forms.ToolStripTextBox tstbPokemonPorVictorias;
         private System.Windows.Forms.ToolTip ttip;
+        private System.Windows.Forms.Panel panelContenido;
     }
 }
 

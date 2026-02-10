@@ -24,3 +24,19 @@ C:\Users\Hugo\Desarrollo de interfaces\di\Proyecto\PokeDexManager\PokeDexManager
 C:\Users\Hugo\Desarrollo de interfaces\di\Proyecto\PokeDexManager\PokeDexManager\obj\Debug\PokeDexManager.PokeDexManager.es-ES.resources
 C:\Users\Hugo\Desarrollo de interfaces\di\Proyecto\PokeDexManager\PokeDexManager\obj\Debug\es-ES\PokeDexManager.resources.dll
 C:\Users\Hugo\Desarrollo de interfaces\di\Proyecto\PokeDexManager\PokeDexManager\obj\Debug\PokeDexManager.FormPokedex.resources
+F:\DI\di\Proyecto\PokeDexManager\PokeDexManager\bin\Debug\PokeDexManager.exe.config
+F:\DI\di\Proyecto\PokeDexManager\PokeDexManager\bin\Debug\PokeDexManager.exe
+F:\DI\di\Proyecto\PokeDexManager\PokeDexManager\bin\Debug\PokeDexManager.pdb
+F:\DI\di\Proyecto\PokeDexManager\PokeDexManager\bin\Debug\es-ES\PokeDexManager.resources.dll
+F:\DI\di\Proyecto\PokeDexManager\PokeDexManager\obj\Debug\PokeDexManager.csproj.AssemblyReference.cache
+F:\DI\di\Proyecto\PokeDexManager\PokeDexManager\obj\Debug\PokeDexManager.exe.config
+F:\DI\di\Proyecto\PokeDexManager\PokeDexManager\obj\Debug\PokeDexManager.PokeDexManager.resources
+F:\DI\di\Proyecto\PokeDexManager\PokeDexManager\obj\Debug\PokeDexManager.Properties.Resources.resources
+F:\DI\di\Proyecto\PokeDexManager\PokeDexManager\obj\Debug\PokeDexManager.SplashScreen.resources
+F:\DI\di\Proyecto\PokeDexManager\PokeDexManager\obj\Debug\PokeDexManager.PokeDexManager.es-ES.resources
+F:\DI\di\Proyecto\PokeDexManager\PokeDexManager\obj\Debug\PokeDexManager.csproj.GenerateResource.cache
+F:\DI\di\Proyecto\PokeDexManager\PokeDexManager\obj\Debug\PokeDexManager.csproj.CoreCompileInputs.cache
+F:\DI\di\Proyecto\PokeDexManager\PokeDexManager\obj\Debug\es-ES\PokeDexManager.resources.dll
+F:\DI\di\Proyecto\PokeDexManager\PokeDexManager\obj\Debug\PokeDexManager.exe
+F:\DI\di\Proyecto\PokeDexManager\PokeDexManager\obj\Debug\PokeDexManager.pdb
+F:\DI\di\Proyecto\PokeDexManager\PokeDexManager\obj\Debug\PokeDexManager.UcPokedex.resources

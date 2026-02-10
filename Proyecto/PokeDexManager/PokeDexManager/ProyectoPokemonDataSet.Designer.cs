@@ -3236,12 +3236,51 @@ SELECT IdPokemon, EspecieId, Nivel, Salud, Ataque, Defensa, FechaRegistro FROM P
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         private void InitCommandCollection() {
-            this._commandCollection = new global::System.Data.SqlClient.SqlCommand[1];
+            this._commandCollection = new global::System.Data.SqlClient.SqlCommand[2];
             this._commandCollection[0] = new global::System.Data.SqlClient.SqlCommand();
             this._commandCollection[0].Connection = this.Connection;
             this._commandCollection[0].CommandText = "SELECT IdPokemon, EspecieId, Nivel, Salud, Ataque, Defensa, FechaRegistro FROM db" +
                 "o.Pokemon";
             this._commandCollection[0].CommandType = global::System.Data.CommandType.Text;
+            this._commandCollection[1] = new global::System.Data.SqlClient.SqlCommand();
+            this._commandCollection[1].Connection = this.Connection;
+            this._commandCollection[1].CommandText = @"SELECT 
+    p.IdPokemon,
+    e.NumeroPokedex,
+    e.Nombre AS NombrePokemon,
+    t.Nombre AS Tipo,
+    p.Nivel,
+    p.Salud,
+    p.Ataque,
+    p.Defensa,
+    p.FechaRegistro,
+    e.Descripcion,
+
+    -- Combates ganados
+    COUNT(c.IdCombate) AS CombatesGanados,
+
+    -- Experiencia total ganada
+    ISNULL(SUM(c.ExperienciaGanada), 0) AS ExperienciaTotal
+
+FROM Pokemon p
+INNER JOIN Especie e ON p.EspecieId = e.IdEspecie
+INNER JOIN Tipo t ON e.TipoId = t.IdTipo
+LEFT JOIN Combate c 
+    ON c.PokemonGanadorId = p.IdPokemon
+
+GROUP BY
+    p.IdPokemon,
+    e.NumeroPokedex,
+    e.Nombre,
+    t.Nombre,
+    p.Nivel,
+    p.Salud,
+    p.Ataque,
+    p.Defensa,
+    p.FechaRegistro,
+    e.Descripcion
+";
+            this._commandCollection[1].CommandType = global::System.Data.CommandType.Text;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -3263,6 +3302,17 @@ SELECT IdPokemon, EspecieId, Nivel, Salud, Ataque, Defensa, FechaRegistro FROM P
         [global::System.ComponentModel.DataObjectMethodAttribute(global::System.ComponentModel.DataObjectMethodType.Select, true)]
         public virtual ProyectoPokemonDataSet.PokemonDataTable GetData() {
             this.Adapter.SelectCommand = this.CommandCollection[0];
+            ProyectoPokemonDataSet.PokemonDataTable dataTable = new ProyectoPokemonDataSet.PokemonDataTable();
+            this.Adapter.Fill(dataTable);
+            return dataTable;
+        }
+        
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
+        [global::System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter")]
+        [global::System.ComponentModel.DataObjectMethodAttribute(global::System.ComponentModel.DataObjectMethodType.Select, false)]
+        public virtual ProyectoPokemonDataSet.PokemonDataTable GetDataPokedex() {
+            this.Adapter.SelectCommand = this.CommandCollection[1];
             ProyectoPokemonDataSet.PokemonDataTable dataTable = new ProyectoPokemonDataSet.PokemonDataTable();
             this.Adapter.Fill(dataTable);
             return dataTable;
@@ -3555,11 +3605,16 @@ SELECT IdPokemon, EspecieId, Nivel, Salud, Ataque, Defensa, FechaRegistro FROM P
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         private void InitCommandCollection() {
-            this._commandCollection = new global::System.Data.SqlClient.SqlCommand[1];
+            this._commandCollection = new global::System.Data.SqlClient.SqlCommand[2];
             this._commandCollection[0] = new global::System.Data.SqlClient.SqlCommand();
             this._commandCollection[0].Connection = this.Connection;
             this._commandCollection[0].CommandText = "SELECT IdTipo, Nombre FROM dbo.Tipo";
             this._commandCollection[0].CommandType = global::System.Data.CommandType.Text;
+            this._commandCollection[1] = new global::System.Data.SqlClient.SqlCommand();
+            this._commandCollection[1].Connection = this.Connection;
+            this._commandCollection[1].CommandText = "INSERT INTO Tipo (Nombre)\r\nVALUES (@Nombre)\r\n";
+            this._commandCollection[1].CommandType = global::System.Data.CommandType.Text;
+            this._commandCollection[1].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Nombre", global::System.Data.SqlDbType.NVarChar, 50, global::System.Data.ParameterDirection.Input, 0, 0, "Nombre", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -3711,6 +3766,35 @@ SELECT IdPokemon, EspecieId, Nivel, Salud, Ataque, Defensa, FechaRegistro FROM P
         [global::System.ComponentModel.DataObjectMethodAttribute(global::System.ComponentModel.DataObjectMethodType.Update, true)]
         public virtual int Update(string Nombre, int Original_IdTipo, string Original_Nombre) {
             return this.Update(Nombre, Original_IdTipo, Original_Nombre, Original_IdTipo);
+        }
+        
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
+        [global::System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter")]
+        [global::System.ComponentModel.DataObjectMethodAttribute(global::System.ComponentModel.DataObjectMethodType.Insert, false)]
+        public virtual int InsertTipo(string Nombre) {
+            global::System.Data.SqlClient.SqlCommand command = this.CommandCollection[1];
+            if ((Nombre == null)) {
+                throw new global::System.ArgumentNullException("Nombre");
+            }
+            else {
+                command.Parameters[0].Value = ((string)(Nombre));
+            }
+            global::System.Data.ConnectionState previousConnectionState = command.Connection.State;
+            if (((command.Connection.State & global::System.Data.ConnectionState.Open) 
+                        != global::System.Data.ConnectionState.Open)) {
+                command.Connection.Open();
+            }
+            int returnValue;
+            try {
+                returnValue = command.ExecuteNonQuery();
+            }
+            finally {
+                if ((previousConnectionState == global::System.Data.ConnectionState.Closed)) {
+                    command.Connection.Close();
+                }
+            }
+            return returnValue;
         }
     }
     

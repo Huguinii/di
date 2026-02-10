@@ -10,13 +10,11 @@ using System.Windows.Forms;
 
 namespace PokeDexManager
 {
-    public partial class FormPokedex : Form
+    public partial class UcCombates : UserControl
     {
-        public FormPokedex()
+        public UcCombates()
         {
             InitializeComponent();
         }
-
-        
     }
 }

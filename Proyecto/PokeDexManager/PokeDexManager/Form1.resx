@@ -137,7 +137,7 @@
     <value>Archivo</value>
   </data>
   <data name="verPokedexToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
+    <value>172, 22</value>
   </data>
   <data name="verPokedexToolStripMenuItem.Text" xml:space="preserve">
     <value>Ver Pokedex</value>
@@ -146,7 +146,7 @@
     <value>Muestra la pokedex</value>
   </data>
   <data name="registrarCombateToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
+    <value>172, 22</value>
   </data>
   <data name="registrarCombateToolStripMenuItem.Text" xml:space="preserve">
     <value>Registrar Combate</value>
@@ -198,7 +198,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;menuBar.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>4</value>
   </data>
   <metadata name="statusBar.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>132, 17</value>
@@ -214,12 +214,6 @@
   </data>
   <data name="tsslPokemonCargados.Text" xml:space="preserve">
     <value>Pokemon cargados:</value>
-  </data>
-  <data name="tsslUsuarioConectado.Size" type="System.Drawing.Size, System.Drawing">
-    <value>109, 17</value>
-  </data>
-  <data name="tsslUsuarioConectado.Text" xml:space="preserve">
-    <value>Usuario conectado:</value>
   </data>
   <data name="statusBar.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 428</value>
@@ -243,7 +237,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;statusBar.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>3</value>
   </data>
   <metadata name="cxtMenuPokemon.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>234, 17</value>
@@ -317,13 +311,40 @@
   <metadata name="ttip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>499, 20</value>
   </metadata>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="panelContenido.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="panelContenido.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="panelContenido.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 24</value>
+  </data>
+  <data name="panelContenido.Size" type="System.Drawing.Size, System.Drawing">
+    <value>800, 404</value>
+  </data>
+  <data name="panelContenido.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;panelContenido.Name" xml:space="preserve">
+    <value>panelContenido</value>
+  </data>
+  <data name="&gt;&gt;panelContenido.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panelContenido.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panelContenido.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>6, 13</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="$this.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
     <value>Stretch</value>
   </data>
@@ -678,12 +699,6 @@
     <value>tsslPokemonCargados</value>
   </data>
   <data name="&gt;&gt;tsslPokemonCargados.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tsslUsuarioConectado.Name" xml:space="preserve">
-    <value>tsslUsuarioConectado</value>
-  </data>
-  <data name="&gt;&gt;tsslUsuarioConectado.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tsmiVerDetalles.Name" xml:space="preserve">
