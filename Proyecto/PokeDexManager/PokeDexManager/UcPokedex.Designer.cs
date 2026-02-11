@@ -28,23 +28,16 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.dgvPokedex = new System.Windows.Forms.DataGridView();
             this.cmbTipos = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.btnNuevoPokemon = new System.Windows.Forms.Button();
+            this.dgvPokedex = new System.Windows.Forms.DataGridView();
+            this.NumeroPokedex = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.NombrePokemonSimple = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.FechaRegistro = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Tipo = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPokedex)).BeginInit();
             this.SuspendLayout();
-            // 
-            // dgvPokedex
-            // 
-            this.dgvPokedex.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.dgvPokedex.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvPokedex.Location = new System.Drawing.Point(0, 64);
-            this.dgvPokedex.Name = "dgvPokedex";
-            this.dgvPokedex.Size = new System.Drawing.Size(800, 340);
-            this.dgvPokedex.TabIndex = 0;
             // 
             // cmbTipos
             // 
@@ -79,6 +72,42 @@
             this.btnNuevoPokemon.UseVisualStyleBackColor = false;
             this.btnNuevoPokemon.Click += new System.EventHandler(this.btnNuevoPokemon_Click);
             // 
+            // dgvPokedex
+            // 
+            this.dgvPokedex.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.dgvPokedex.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvPokedex.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.NumeroPokedex,
+            this.NombrePokemonSimple,
+            this.FechaRegistro,
+            this.Tipo});
+            this.dgvPokedex.Location = new System.Drawing.Point(0, 64);
+            this.dgvPokedex.Name = "dgvPokedex";
+            this.dgvPokedex.Size = new System.Drawing.Size(800, 340);
+            this.dgvPokedex.TabIndex = 0;
+            // 
+            // NumeroPokedex
+            // 
+            this.NumeroPokedex.HeaderText = "Numero Pokedex";
+            this.NumeroPokedex.Name = "NumeroPokedex";
+            // 
+            // NombrePokemonSimple
+            // 
+            this.NombrePokemonSimple.HeaderText = "Nombre";
+            this.NombrePokemonSimple.Name = "NombrePokemonSimple";
+            // 
+            // FechaRegistro
+            // 
+            this.FechaRegistro.HeaderText = "FechaRegistro";
+            this.FechaRegistro.Name = "FechaRegistro";
+            // 
+            // Tipo
+            // 
+            this.Tipo.HeaderText = "Tipo";
+            this.Tipo.Name = "Tipo";
+            // 
             // UcPokedex
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -98,10 +127,13 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.DataGridView dgvPokedex;
         private System.Windows.Forms.ComboBox cmbTipos;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnNuevoPokemon;
+        private System.Windows.Forms.DataGridView dgvPokedex;
+        private System.Windows.Forms.DataGridViewTextBoxColumn NumeroPokedex;
+        private System.Windows.Forms.DataGridViewTextBoxColumn NombrePokemonSimple;
+        private System.Windows.Forms.DataGridViewTextBoxColumn FechaRegistro;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Tipo;
     }
 }

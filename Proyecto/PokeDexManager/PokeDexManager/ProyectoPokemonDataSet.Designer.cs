@@ -3331,7 +3331,7 @@ SELECT IdPokemon, EspecieId, Nivel, Salud, Ataque, Defensa, FechaRegistro FROM P
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         private void InitCommandCollection() {
-            this._commandCollection = new global::System.Data.SqlClient.SqlCommand[3];
+            this._commandCollection = new global::System.Data.SqlClient.SqlCommand[4];
             this._commandCollection[0] = new global::System.Data.SqlClient.SqlCommand();
             this._commandCollection[0].Connection = this.Connection;
             this._commandCollection[0].CommandText = "SELECT IdPokemon, EspecieId, Nivel, Salud, Ataque, Defensa, FechaRegistro FROM db" +
@@ -3339,38 +3339,21 @@ SELECT IdPokemon, EspecieId, Nivel, Salud, Ataque, Defensa, FechaRegistro FROM P
             this._commandCollection[0].CommandType = global::System.Data.CommandType.Text;
             this._commandCollection[1] = new global::System.Data.SqlClient.SqlCommand();
             this._commandCollection[1].Connection = this.Connection;
-            this._commandCollection[1].CommandText = @"SELECT 
-    p.IdPokemon,
-    e.NumeroPokedex,
-    e.Nombre AS NombrePokemon,
-    t.Nombre AS Tipo,
-    p.Nivel,
-    p.Salud,
-    p.Ataque,
-    p.Defensa,
-    p.FechaRegistro,
-    e.Descripcion
-
-FROM Pokemon p
-INNER JOIN Especie e ON p.EspecieId = e.IdEspecie
-INNER JOIN Tipo t ON e.TipoId = t.IdTipo
-
-GROUP BY
-    p.IdPokemon,
-    e.NumeroPokedex,
-    e.Nombre,
-    t.Nombre,
-    p.Nivel,
-    p.Salud,
-    p.Ataque,
-    p.Defensa,
-    p.FechaRegistro,
-    e.Descripcion
-";
+            this._commandCollection[1].CommandText = @"SELECT        Especie.NumeroPokedex, Especie.Nombre, Tipo.Nombre AS Tipo, Pokemon.FechaRegistro
+FROM            Pokemon INNER JOIN
+                         Especie ON Pokemon.EspecieId = Especie.IdEspecie INNER JOIN
+                         Tipo ON Especie.TipoId = Tipo.IdTipo";
             this._commandCollection[1].CommandType = global::System.Data.CommandType.Text;
             this._commandCollection[2] = new global::System.Data.SqlClient.SqlCommand();
             this._commandCollection[2].Connection = this.Connection;
-            this._commandCollection[2].CommandText = @"INSERT INTO [dbo].[Pokemon]
+            this._commandCollection[2].CommandText = @"SELECT        Especie.NumeroPokedex, Especie.Nombre, Tipo.Nombre AS Tipo, Pokemon.FechaRegistro
+FROM            Pokemon INNER JOIN
+                         Especie ON Pokemon.EspecieId = Especie.IdEspecie INNER JOIN
+                         Tipo ON Especie.TipoId = Tipo.IdTipo";
+            this._commandCollection[2].CommandType = global::System.Data.CommandType.Text;
+            this._commandCollection[3] = new global::System.Data.SqlClient.SqlCommand();
+            this._commandCollection[3].Connection = this.Connection;
+            this._commandCollection[3].CommandText = @"INSERT INTO [dbo].[Pokemon]
 (EspecieId, Nivel, Salud, Ataque, Defensa, FechaRegistro)
 VALUES
 (@EspecieId, @Nivel, @Salud, @Ataque, @Defensa, @FechaRegistro);
@@ -3379,13 +3362,13 @@ SELECT IdPokemon, EspecieId, Nivel, Salud, Ataque, Defensa, FechaRegistro
 FROM Pokemon
 WHERE IdPokemon = SCOPE_IDENTITY();
 ";
-            this._commandCollection[2].CommandType = global::System.Data.CommandType.Text;
-            this._commandCollection[2].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@EspecieId", global::System.Data.SqlDbType.Int, 4, global::System.Data.ParameterDirection.Input, 0, 0, "EspecieId", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
-            this._commandCollection[2].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Nivel", global::System.Data.SqlDbType.Int, 4, global::System.Data.ParameterDirection.Input, 0, 0, "Nivel", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
-            this._commandCollection[2].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Salud", global::System.Data.SqlDbType.Int, 4, global::System.Data.ParameterDirection.Input, 0, 0, "Salud", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
-            this._commandCollection[2].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Ataque", global::System.Data.SqlDbType.Int, 4, global::System.Data.ParameterDirection.Input, 0, 0, "Ataque", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
-            this._commandCollection[2].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Defensa", global::System.Data.SqlDbType.Int, 4, global::System.Data.ParameterDirection.Input, 0, 0, "Defensa", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
-            this._commandCollection[2].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@FechaRegistro", global::System.Data.SqlDbType.Date, 3, global::System.Data.ParameterDirection.Input, 0, 0, "FechaRegistro", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
+            this._commandCollection[3].CommandType = global::System.Data.CommandType.Text;
+            this._commandCollection[3].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@EspecieId", global::System.Data.SqlDbType.Int, 4, global::System.Data.ParameterDirection.Input, 0, 0, "EspecieId", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
+            this._commandCollection[3].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Nivel", global::System.Data.SqlDbType.Int, 4, global::System.Data.ParameterDirection.Input, 0, 0, "Nivel", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
+            this._commandCollection[3].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Salud", global::System.Data.SqlDbType.Int, 4, global::System.Data.ParameterDirection.Input, 0, 0, "Salud", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
+            this._commandCollection[3].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Ataque", global::System.Data.SqlDbType.Int, 4, global::System.Data.ParameterDirection.Input, 0, 0, "Ataque", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
+            this._commandCollection[3].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@Defensa", global::System.Data.SqlDbType.Int, 4, global::System.Data.ParameterDirection.Input, 0, 0, "Defensa", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
+            this._commandCollection[3].Parameters.Add(new global::System.Data.SqlClient.SqlParameter("@FechaRegistro", global::System.Data.SqlDbType.Date, 3, global::System.Data.ParameterDirection.Input, 0, 0, "FechaRegistro", global::System.Data.DataRowVersion.Current, false, null, "", "", ""));
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -3416,8 +3399,19 @@ WHERE IdPokemon = SCOPE_IDENTITY();
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         [global::System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter")]
         [global::System.ComponentModel.DataObjectMethodAttribute(global::System.ComponentModel.DataObjectMethodType.Select, false)]
-        public virtual ProyectoPokemonDataSet.PokemonDataTable GetDataPokedex() {
+        public virtual ProyectoPokemonDataSet.PokemonDataTable GetSimpleDataPokedex() {
             this.Adapter.SelectCommand = this.CommandCollection[1];
+            ProyectoPokemonDataSet.PokemonDataTable dataTable = new ProyectoPokemonDataSet.PokemonDataTable();
+            this.Adapter.Fill(dataTable);
+            return dataTable;
+        }
+        
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
+        [global::System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter")]
+        [global::System.ComponentModel.DataObjectMethodAttribute(global::System.ComponentModel.DataObjectMethodType.Select, false)]
+        public virtual ProyectoPokemonDataSet.PokemonDataTable GetSimplePokemons() {
+            this.Adapter.SelectCommand = this.CommandCollection[2];
             ProyectoPokemonDataSet.PokemonDataTable dataTable = new ProyectoPokemonDataSet.PokemonDataTable();
             this.Adapter.Fill(dataTable);
             return dataTable;
@@ -3555,7 +3549,7 @@ WHERE IdPokemon = SCOPE_IDENTITY();
         [global::System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter")]
         [global::System.ComponentModel.DataObjectMethodAttribute(global::System.ComponentModel.DataObjectMethodType.Insert, false)]
         public virtual int InsertarPokemon(int EspecieId, int Nivel, int Salud, int Ataque, int Defensa, DateTime FechaRegistro) {
-            global::System.Data.SqlClient.SqlCommand command = this.CommandCollection[2];
+            global::System.Data.SqlClient.SqlCommand command = this.CommandCollection[3];
             command.Parameters[0].Value = ((int)(EspecieId));
             command.Parameters[1].Value = ((int)(Nivel));
             command.Parameters[2].Value = ((int)(Salud));

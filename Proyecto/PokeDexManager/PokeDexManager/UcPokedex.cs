@@ -83,8 +83,10 @@ namespace PokeDexManager
         private void CargarPokedex()
         {
             var adapter = new ProyectoPokemonDataSetTableAdapters.PokemonTableAdapter();
-            dgvPokedex.DataSource = adapter.GetDataPokedex();
+            tablaPokemon = adapter.GetSimpleDataPokedex();  // GUARDAMOS LA TABLA
+            dgvPokedex.DataSource = tablaPokemon;
         }
+
 
 
         private void cmbTipos_SelectedIndexChanged(object sender, EventArgs e)
@@ -96,7 +98,7 @@ namespace PokeDexManager
             }
 
             DataView vista = new DataView(tablaPokemon);
-            vista.RowFilter = $"IdTipo = {cmbTipos.SelectedValue}";
+            vista.RowFilter = $"TipoId = {cmbTipos.SelectedValue}";
             dgvPokedex.DataSource = vista;
         }
 
@@ -104,6 +106,9 @@ namespace PokeDexManager
         {
             NuevoPokemon pokemonNuevo = new NuevoPokemon();
             pokemonNuevo.ShowDialog();
+            CargarPokedex();
         }
+
+        
     }
 }

@@ -29,8 +29,8 @@ namespace PokeDexManager
 
         private void CrearPokemon()
         {
-            string especiePokemon = txtEspecie.Text;
-            string descripcion = txtDescripcion.Text;
+            especiePokemon = txtEspecie.Text;
+            descripcion = txtDescripcion.Text;
 
             if (!int.TryParse(txtNivel.Text, out nivel) ||
                 !int.TryParse(txtSalud.Text, out salud) ||

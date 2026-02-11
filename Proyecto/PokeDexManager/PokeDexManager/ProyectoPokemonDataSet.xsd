@@ -256,37 +256,24 @@ SELECT IdPokemon, EspecieId, Nivel, Salud, Ataque, Defensa, FechaRegistro FROM P
               <Mapping SourceColumn="FechaRegistro" DataSetColumn="FechaRegistro" />
             </Mappings>
             <Sources>
-              <DbSource ConnectionRef="ProyectoPokemonConnectionString (Settings)" DbObjectType="Unknown" GenerateMethods="Get" GenerateShortCommands="true" GeneratorGetMethodName="GetDataPokedex" GetMethodModifier="Public" GetMethodName="GetDataPokedex" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetDataPokedex" UserSourceName="GetDataPokedex">
+              <DbSource ConnectionRef="ProyectoPokemonConnectionString (Settings)" DbObjectType="Unknown" GenerateMethods="Get" GenerateShortCommands="true" GeneratorGetMethodName="GetSimpleDataPokedex" GetMethodModifier="Public" GetMethodName="GetSimpleDataPokedex" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetSimpleDataPokedex" UserSourceName="GetSimpleDataPokedex">
                 <SelectCommand>
                   <DbCommand CommandType="Text" ModifiedByUser="true">
-                    <CommandText>SELECT 
-    p.IdPokemon,
-    e.NumeroPokedex,
-    e.Nombre AS NombrePokemon,
-    t.Nombre AS Tipo,
-    p.Nivel,
-    p.Salud,
-    p.Ataque,
-    p.Defensa,
-    p.FechaRegistro,
-    e.Descripcion
-
-FROM Pokemon p
-INNER JOIN Especie e ON p.EspecieId = e.IdEspecie
-INNER JOIN Tipo t ON e.TipoId = t.IdTipo
-
-GROUP BY
-    p.IdPokemon,
-    e.NumeroPokedex,
-    e.Nombre,
-    t.Nombre,
-    p.Nivel,
-    p.Salud,
-    p.Ataque,
-    p.Defensa,
-    p.FechaRegistro,
-    e.Descripcion
-</CommandText>
+                    <CommandText>SELECT        Especie.NumeroPokedex, Especie.Nombre, Tipo.Nombre AS Tipo, Pokemon.FechaRegistro
+FROM            Pokemon INNER JOIN
+                         Especie ON Pokemon.EspecieId = Especie.IdEspecie INNER JOIN
+                         Tipo ON Especie.TipoId = Tipo.IdTipo</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+              <DbSource ConnectionRef="ProyectoPokemonConnectionString (Settings)" DbObjectType="Unknown" GenerateMethods="Get" GenerateShortCommands="true" GeneratorGetMethodName="GetSimplePokemons" GetMethodModifier="Public" GetMethodName="GetSimplePokemons" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetSimplePokemons" UserSourceName="GetSimplePokemons">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        Especie.NumeroPokedex, Especie.Nombre, Tipo.Nombre AS Tipo, Pokemon.FechaRegistro
+FROM            Pokemon INNER JOIN
+                         Especie ON Pokemon.EspecieId = Especie.IdEspecie INNER JOIN
+                         Tipo ON Especie.TipoId = Tipo.IdTipo</CommandText>
                     <Parameters />
                   </DbCommand>
                 </SelectCommand>
@@ -477,11 +464,11 @@ VALUES (@Nombre)
   </xs:element>
   <xs:annotation>
     <xs:appinfo>
-      <msdata:Relationship name="FK_Combate_Ganador" msdata:parent="Pokemon" msdata:child="Combate" msdata:parentkey="IdPokemon" msdata:childkey="PokemonGanadorId" msprop:Generator_UserParentTable="Pokemon" msprop:Generator_UserChildTable="Combate" msprop:Generator_RelationVarName="relationFK_Combate_Ganador" msprop:Generator_ChildPropName="GetCombateRowsByFK_Combate_Ganador" msprop:Generator_ParentPropName="PokemonRowByFK_Combate_Ganador" msprop:Generator_UserRelationName="FK_Combate_Ganador" />
-      <msdata:Relationship name="FK_Combate_Pokemon1" msdata:parent="Pokemon" msdata:child="Combate" msdata:parentkey="IdPokemon" msdata:childkey="Pokemon1Id" msprop:Generator_UserParentTable="Pokemon" msprop:Generator_UserChildTable="Combate" msprop:Generator_RelationVarName="relationFK_Combate_Pokemon1" msprop:Generator_ChildPropName="GetCombateRowsByFK_Combate_Pokemon1" msprop:Generator_ParentPropName="PokemonRowByFK_Combate_Pokemon1" msprop:Generator_UserRelationName="FK_Combate_Pokemon1" />
-      <msdata:Relationship name="FK_Combate_Pokemon2" msdata:parent="Pokemon" msdata:child="Combate" msdata:parentkey="IdPokemon" msdata:childkey="Pokemon2Id" msprop:Generator_UserParentTable="Pokemon" msprop:Generator_UserChildTable="Combate" msprop:Generator_RelationVarName="relationFK_Combate_Pokemon2" msprop:Generator_ChildPropName="GetCombateRowsByFK_Combate_Pokemon2" msprop:Generator_ParentPropName="PokemonRowByFK_Combate_Pokemon2" msprop:Generator_UserRelationName="FK_Combate_Pokemon2" />
-      <msdata:Relationship name="FK_Especie_Tipo" msdata:parent="Tipo" msdata:child="Especie" msdata:parentkey="IdTipo" msdata:childkey="TipoId" msprop:Generator_UserParentTable="Tipo" msprop:Generator_UserChildTable="Especie" msprop:Generator_RelationVarName="relationFK_Especie_Tipo" msprop:Generator_ChildPropName="GetEspecieRows" msprop:Generator_ParentPropName="TipoRow" msprop:Generator_UserRelationName="FK_Especie_Tipo" />
-      <msdata:Relationship name="FK_Pokemon_Especie" msdata:parent="Especie" msdata:child="Pokemon" msdata:parentkey="IdEspecie" msdata:childkey="EspecieId" msprop:Generator_UserParentTable="Especie" msprop:Generator_UserChildTable="Pokemon" msprop:Generator_RelationVarName="relationFK_Pokemon_Especie" msprop:Generator_ChildPropName="GetPokemonRows" msprop:Generator_UserRelationName="FK_Pokemon_Especie" msprop:Generator_ParentPropName="EspecieRow" />
+      <msdata:Relationship name="FK_Combate_Ganador" msdata:parent="Pokemon" msdata:child="Combate" msdata:parentkey="IdPokemon" msdata:childkey="PokemonGanadorId" msprop:Generator_UserParentTable="Pokemon" msprop:Generator_UserChildTable="Combate" msprop:Generator_RelationVarName="relationFK_Combate_Ganador" msprop:Generator_ChildPropName="GetCombateRowsByFK_Combate_Ganador" msprop:Generator_UserRelationName="FK_Combate_Ganador" msprop:Generator_ParentPropName="PokemonRowByFK_Combate_Ganador" />
+      <msdata:Relationship name="FK_Combate_Pokemon1" msdata:parent="Pokemon" msdata:child="Combate" msdata:parentkey="IdPokemon" msdata:childkey="Pokemon1Id" msprop:Generator_UserParentTable="Pokemon" msprop:Generator_UserChildTable="Combate" msprop:Generator_RelationVarName="relationFK_Combate_Pokemon1" msprop:Generator_ChildPropName="GetCombateRowsByFK_Combate_Pokemon1" msprop:Generator_UserRelationName="FK_Combate_Pokemon1" msprop:Generator_ParentPropName="PokemonRowByFK_Combate_Pokemon1" />
+      <msdata:Relationship name="FK_Combate_Pokemon2" msdata:parent="Pokemon" msdata:child="Combate" msdata:parentkey="IdPokemon" msdata:childkey="Pokemon2Id" msprop:Generator_UserParentTable="Pokemon" msprop:Generator_UserChildTable="Combate" msprop:Generator_RelationVarName="relationFK_Combate_Pokemon2" msprop:Generator_ChildPropName="GetCombateRowsByFK_Combate_Pokemon2" msprop:Generator_UserRelationName="FK_Combate_Pokemon2" msprop:Generator_ParentPropName="PokemonRowByFK_Combate_Pokemon2" />
+      <msdata:Relationship name="FK_Especie_Tipo" msdata:parent="Tipo" msdata:child="Especie" msdata:parentkey="IdTipo" msdata:childkey="TipoId" msprop:Generator_UserParentTable="Tipo" msprop:Generator_UserChildTable="Especie" msprop:Generator_RelationVarName="relationFK_Especie_Tipo" msprop:Generator_ChildPropName="GetEspecieRows" msprop:Generator_UserRelationName="FK_Especie_Tipo" msprop:Generator_ParentPropName="TipoRow" />
+      <msdata:Relationship name="FK_Pokemon_Especie" msdata:parent="Especie" msdata:child="Pokemon" msdata:parentkey="IdEspecie" msdata:childkey="EspecieId" msprop:Generator_UserParentTable="Especie" msprop:Generator_UserChildTable="Pokemon" msprop:Generator_RelationVarName="relationFK_Pokemon_Especie" msprop:Generator_ChildPropName="GetPokemonRows" msprop:Generator_ParentPropName="EspecieRow" msprop:Generator_UserRelationName="FK_Pokemon_Especie" />
     </xs:appinfo>
   </xs:annotation>
 </xs:schema>
