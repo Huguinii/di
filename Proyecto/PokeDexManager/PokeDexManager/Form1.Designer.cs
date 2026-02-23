@@ -38,6 +38,7 @@
             this.registrarCombateToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ayudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.acercaDeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.informesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.statusBar = new System.Windows.Forms.StatusStrip();
             this.tsslListo = new System.Windows.Forms.ToolStripStatusLabel();
             this.tsslPokemonCargados = new System.Windows.Forms.ToolStripStatusLabel();
@@ -98,7 +99,8 @@
             // ayudaToolStripMenuItem
             // 
             this.ayudaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.acercaDeToolStripMenuItem});
+            this.acercaDeToolStripMenuItem,
+            this.informesToolStripMenuItem});
             this.ayudaToolStripMenuItem.Name = "ayudaToolStripMenuItem";
             resources.ApplyResources(this.ayudaToolStripMenuItem, "ayudaToolStripMenuItem");
             // 
@@ -106,6 +108,12 @@
             // 
             this.acercaDeToolStripMenuItem.Name = "acercaDeToolStripMenuItem";
             resources.ApplyResources(this.acercaDeToolStripMenuItem, "acercaDeToolStripMenuItem");
+            // 
+            // informesToolStripMenuItem
+            // 
+            this.informesToolStripMenuItem.Name = "informesToolStripMenuItem";
+            resources.ApplyResources(this.informesToolStripMenuItem, "informesToolStripMenuItem");
+            this.informesToolStripMenuItem.Click += new System.EventHandler(this.informesToolStripMenuItem_Click);
             // 
             // statusBar
             // 
@@ -210,6 +218,7 @@
         private System.Windows.Forms.ToolStripTextBox tstbPokemonPorVictorias;
         private System.Windows.Forms.ToolTip ttip;
         private System.Windows.Forms.Panel panelContenido;
+        private System.Windows.Forms.ToolStripMenuItem informesToolStripMenuItem;
     }
 }
 

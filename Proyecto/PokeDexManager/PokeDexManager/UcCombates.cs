@@ -36,30 +36,6 @@ namespace PokeDexManager
             cmbPokemon2.SelectedIndex = -1;
         }
 
-        private void cmbPokemon1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            if (cmbPokemon1.SelectedValue == null || cmbPokemon2.SelectedValue == null)
-                return;
-
-            if (cmbPokemon1.SelectedValue.Equals(cmbPokemon2.SelectedValue))
-            {
-                MessageBox.Show("No puedes elegir el mismo Pokémon.");
-                cmbPokemon1.SelectedIndex = -1;
-            }
-        }
-
-        private void cmbPokemon2_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            if (cmbPokemon2.SelectedValue == null || cmbPokemon1.SelectedValue == null)
-                return;
-
-            if (cmbPokemon2.SelectedValue.Equals(cmbPokemon1.SelectedValue))
-            {
-                MessageBox.Show("No puedes elegir el mismo Pokémon.");
-                cmbPokemon2.SelectedIndex = -1;
-            }
-        }
-
         private void CargarHistorial()
         {
             var historialTA = new ProyectoPokemonDataSetTableAdapters.CombateHistorialTableAdapter();
@@ -111,6 +87,12 @@ namespace PokeDexManager
             int ganadorId;
             string mensaje;
 
+            if(id1 == id2)
+            {
+                MessageBox.Show("No se puede seleccionar el mismo pokemon");
+                return;
+            }
+            
             if (saludFinal1 > saludFinal2)
             {
                 ganadorId = id1;
@@ -144,6 +126,9 @@ namespace PokeDexManager
 
             MessageBox.Show($"{mensaje}\nExperiencia ganada: {experiencia}");
             CargarHistorial();
+
+            cmbPokemon1.SelectedIndex = -1;
+            cmbPokemon2.SelectedIndex = -1;
         }
         private void dgvCombates_CellFormatting(object sender, DataGridViewCellFormattingEventArgs e)
         {

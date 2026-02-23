@@ -3,19 +3,11 @@
   "WorkspaceRootPath": "F:\\DI\\di\\Proyecto\\PokeDexManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|f:\\di\\di\\proyecto\\pokedexmanager\\pokedexmanager\\proyectopokemondataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
-      "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\proyectopokemondataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|f:\\di\\di\\proyecto\\pokedexmanager\\pokedexmanager\\infmulttabla.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\infmulttabla.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|f:\\di\\di\\proyecto\\pokedexmanager\\pokedexmanager\\verpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\verpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|f:\\di\\di\\proyecto\\pokedexmanager\\pokedexmanager\\verpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\verpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|f:\\di\\di\\proyecto\\pokedexmanager\\pokedexmanager\\nuevopokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|F:\\DI\\di\\Proyecto\\PokeDexManager\\pokedexmanager\\nuevopokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{639C6ACA-6474-46E5-97BF-66F51588471B}|PokeDexManager\\PokeDexManager.csproj|solutionrelative:pokedexmanager\\nuevopokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,52 +26,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NuevoPokemon.cs",
-              "DocumentMoniker": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\NuevoPokemon.cs",
-              "RelativeDocumentMoniker": "PokeDexManager\\NuevoPokemon.cs",
-              "ToolTip": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\NuevoPokemon.cs",
-              "RelativeToolTip": "PokeDexManager\\NuevoPokemon.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAewEcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T11:14:00.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VerPokemon.cs",
-              "DocumentMoniker": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\VerPokemon.cs",
-              "RelativeDocumentMoniker": "PokeDexManager\\VerPokemon.cs",
-              "ToolTip": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\VerPokemon.cs",
-              "RelativeToolTip": "PokeDexManager\\VerPokemon.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAAAFoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T11:03:23.793Z",
+              "DocumentIndex": 0,
+              "Title": "InfMultTabla.rpt",
+              "DocumentMoniker": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\InfMultTabla.rpt",
+              "RelativeDocumentMoniker": "PokeDexManager\\InfMultTabla.rpt",
+              "ToolTip": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\InfMultTabla.rpt",
+              "RelativeToolTip": "PokeDexManager\\InfMultTabla.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-23T11:11:02.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "VerPokemon.cs [Dise\u00F1o]",
-              "DocumentMoniker": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\VerPokemon.cs",
-              "RelativeDocumentMoniker": "PokeDexManager\\VerPokemon.cs",
-              "ToolTip": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\VerPokemon.cs [Dise\u00F1o]",
-              "RelativeToolTip": "PokeDexManager\\VerPokemon.cs [Dise\u00F1o]",
+              "Title": "NuevoPokemon.cs",
+              "DocumentMoniker": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\NuevoPokemon.cs",
+              "RelativeDocumentMoniker": "PokeDexManager\\NuevoPokemon.cs",
+              "ToolTip": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\NuevoPokemon.cs",
+              "RelativeToolTip": "PokeDexManager\\NuevoPokemon.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T11:02:45.452Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProyectoPokemonDataSet.xsd",
-              "DocumentMoniker": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\ProyectoPokemonDataSet.xsd",
-              "RelativeDocumentMoniker": "PokeDexManager\\ProyectoPokemonDataSet.xsd",
-              "ToolTip": "F:\\DI\\di\\Proyecto\\PokeDexManager\\PokeDexManager\\ProyectoPokemonDataSet.xsd",
-              "RelativeToolTip": "PokeDexManager\\ProyectoPokemonDataSet.xsd",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
-              "WhenOpened": "2026-02-18T11:06:48.682Z",
+              "WhenOpened": "2026-02-18T11:14:00.353Z",
               "EditorCaption": ""
             }
           ]

@@ -48,5 +48,11 @@ namespace PokeDexManager
             var ucCombates = new UcCombates();
             CargarVista(ucCombates);
         }
+
+        private void informesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            VerInformacion info = new VerInformacion();
+            info.Show();
+        }
     }
 }

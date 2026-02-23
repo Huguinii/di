@@ -10,6 +10,8 @@
 
 #pragma warning disable 1591
 
+using System;
+
 namespace PokeDexManager {
     
     
@@ -6089,7 +6091,7 @@ WHERE IdPokemon = SCOPE_IDENTITY();
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
         [global::System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter")]
         [global::System.ComponentModel.DataObjectMethodAttribute(global::System.ComponentModel.DataObjectMethodType.Insert, false)]
-        public virtual int InsertarPokemon(int EspecieId, int Nivel, int Salud, int Ataque, int Defensa, string FechaRegistro) {
+        public virtual int InsertarPokemon(int EspecieId, int Nivel, int Salud, int Ataque, int Defensa, DateTime FechaRegistro) {
             global::System.Data.SqlClient.SqlCommand command = this.CommandCollection[2];
             command.Parameters[0].Value = ((int)(EspecieId));
             command.Parameters[1].Value = ((int)(Nivel));
@@ -6100,7 +6102,7 @@ WHERE IdPokemon = SCOPE_IDENTITY();
                 throw new global::System.ArgumentNullException("FechaRegistro");
             }
             else {
-                command.Parameters[5].Value = ((string)(FechaRegistro));
+                command.Parameters[5].Value = ((DateTime)(FechaRegistro));
             }
             global::System.Data.ConnectionState previousConnectionState = command.Connection.State;
             if (((command.Connection.State & global::System.Data.ConnectionState.Open) 
