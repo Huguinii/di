@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DI\\di\\Tema9\\Ejercicio2-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D462267-E2C0-48F1-84F7-459093FBA455}|Ejercicio2-3\\Ejercicio2-3.csproj|f:\\di\\di\\tema9\\ejercicio2-3\\ejercicio2-3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D462267-E2C0-48F1-84F7-459093FBA455}|Ejercicio2-3\\Ejercicio2-3.csproj|solutionrelative:ejercicio2-3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D462267-E2C0-48F1-84F7-459093FBA455}|Ejercicio2-3\\Ejercicio2-3.csproj|F:\\DI\\di\\Tema9\\Ejercicio2-3\\ejercicio2-3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D462267-E2C0-48F1-84F7-459093FBA455}|Ejercicio2-3\\Ejercicio2-3.csproj|solutionrelative:ejercicio2-3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D462267-E2C0-48F1-84F7-459093FBA455}|Ejercicio2-3\\Ejercicio2-3.csproj|f:\\di\\di\\tema9\\ejercicio2-3\\ejercicio2-3\\formhijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D462267-E2C0-48F1-84F7-459093FBA455}|Ejercicio2-3\\Ejercicio2-3.csproj|solutionrelative:ejercicio2-3\\formhijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D462267-E2C0-48F1-84F7-459093FBA455}|Ejercicio2-3\\Ejercicio2-3.csproj|f:\\di\\di\\tema9\\ejercicio2-3\\ejercicio2-3\\formhijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D462267-E2C0-48F1-84F7-459093FBA455}|Ejercicio2-3\\Ejercicio2-3.csproj|solutionrelative:ejercicio2-3\\formhijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormHijo.cs",
+              "DocumentMoniker": "F:\\DI\\di\\Tema9\\Ejercicio2-3\\Ejercicio2-3\\FormHijo.cs",
+              "RelativeDocumentMoniker": "Ejercicio2-3\\FormHijo.cs",
+              "ToolTip": "F:\\DI\\di\\Tema9\\Ejercicio2-3\\Ejercicio2-3\\FormHijo.cs",
+              "RelativeToolTip": "Ejercicio2-3\\FormHijo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:59:09.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormHijo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\DI\\di\\Tema9\\Ejercicio2-3\\Ejercicio2-3\\FormHijo.cs",
+              "RelativeDocumentMoniker": "Ejercicio2-3\\FormHijo.cs",
+              "ToolTip": "F:\\DI\\di\\Tema9\\Ejercicio2-3\\Ejercicio2-3\\FormHijo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio2-3\\FormHijo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:58:39.31Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\DI\\di\\Tema9\\Ejercicio2-3\\Ejercicio2-3\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio2-3\\Form1.cs",
+              "ToolTip": "F:\\DI\\di\\Tema9\\Ejercicio2-3\\Ejercicio2-3\\Form1.cs",
+              "RelativeToolTip": "Ejercicio2-3\\Form1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:43:01.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\DI\\di\\Tema9\\Ejercicio2-3\\Ejercicio2-3\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio2-3\\Form1.cs",
+              "ToolTip": "F:\\DI\\di\\Tema9\\Ejercicio2-3\\Ejercicio2-3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio2-3\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T10:42:31.677Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

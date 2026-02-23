@@ -1,0 +1,11 @@
+F:\DI\di\Tema9\AñadirStatusLabel\AñadirStatusLabel\bin\Debug\AñadirStatusLabel.exe.config
+F:\DI\di\Tema9\AñadirStatusLabel\AñadirStatusLabel\bin\Debug\AñadirStatusLabel.exe
+F:\DI\di\Tema9\AñadirStatusLabel\AñadirStatusLabel\bin\Debug\AñadirStatusLabel.pdb
+F:\DI\di\Tema9\AñadirStatusLabel\AñadirStatusLabel\obj\Debug\AñadirStatusLabel.csproj.AssemblyReference.cache
+F:\DI\di\Tema9\AñadirStatusLabel\AñadirStatusLabel\obj\Debug\AñadirStatusLabel.Form1.resources
+F:\DI\di\Tema9\AñadirStatusLabel\AñadirStatusLabel\obj\Debug\AñadirStatusLabel.Properties.Resources.resources
+F:\DI\di\Tema9\AñadirStatusLabel\AñadirStatusLabel\obj\Debug\AñadirStatusLabel.csproj.GenerateResource.cache
+F:\DI\di\Tema9\AñadirStatusLabel\AñadirStatusLabel\obj\Debug\AñadirStatusLabel.csproj.CoreCompileInputs.cache
+F:\DI\di\Tema9\AñadirStatusLabel\AñadirStatusLabel\obj\Debug\AñadirStatusLabel.exe
+F:\DI\di\Tema9\AñadirStatusLabel\AñadirStatusLabel\obj\Debug\AñadirStatusLabel.pdb
+F:\DI\di\Tema9\AñadirStatusLabel\AñadirStatusLabel\obj\Debug\AñadirStatusLabel.exe.config

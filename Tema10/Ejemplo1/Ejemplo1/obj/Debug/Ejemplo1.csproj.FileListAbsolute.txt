@@ -1,0 +1,11 @@
+F:\DI\di\Tema10\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+F:\DI\di\Tema10\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe
+F:\DI\di\Tema10\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.pdb
+F:\DI\di\Tema10\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+F:\DI\di\Tema10\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Form1.resources
+F:\DI\di\Tema10\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+F:\DI\di\Tema10\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+F:\DI\di\Tema10\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+F:\DI\di\Tema10\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe
+F:\DI\di\Tema10\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.pdb
+F:\DI\di\Tema10\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe.config

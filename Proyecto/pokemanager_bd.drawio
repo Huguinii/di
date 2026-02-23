@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="29.3.2">
+  <diagram name="Base de Datos PokéManager" id="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="entrenador" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ENTRENADOR&#xa;----------------&#xa;IdEntrenador (PK)&#xa;Nombre&#xa;Ciudad" vertex="1">
+          <mxGeometry height="140" width="220" x="40" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tipo" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="TIPO&#xa;----------------&#xa;IdTipo (PK)&#xa;Nombre" vertex="1">
+          <mxGeometry height="100" width="200" x="380" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pokemon" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="POKEMON&#xa;----------------&#xa;IdPokemon (PK)&#xa;Nombre&#xa;Nivel&#xa;Salud&#xa;Ataque&#xa;Defensa&#xa;TipoId (FK)&#xa;EntrenadorId (FK)" vertex="1">
+          <mxGeometry height="220" width="280" x="200" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="entrenamiento" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ENTRENAMIENTO&#xa;----------------&#xa;IdEntrenamiento (PK)&#xa;PokemonId (FK)&#xa;TipoEntrenamiento&#xa;Fecha&#xa;DuracionMinutos&#xa;ExperienciaGanada&#xa;Observaciones" vertex="1">
+          <mxGeometry height="220" width="280" x="200" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="r1" edge="1" parent="1" source="entrenador" style="endArrow=block;entryX=0.143;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" target="pokemon">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2" edge="1" parent="1" source="tipo" style="endArrow=block;entryX=0.846;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" target="pokemon">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r3" edge="1" parent="1" source="pokemon" style="endArrow=block;" target="entrenamiento">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

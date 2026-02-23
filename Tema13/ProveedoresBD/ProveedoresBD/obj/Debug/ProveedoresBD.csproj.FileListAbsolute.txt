@@ -1,0 +1,11 @@
+F:\DI\di\Tema13\ProveedoresBD\ProveedoresBD\bin\Debug\ProveedoresBD.exe.config
+F:\DI\di\Tema13\ProveedoresBD\ProveedoresBD\bin\Debug\ProveedoresBD.exe
+F:\DI\di\Tema13\ProveedoresBD\ProveedoresBD\bin\Debug\ProveedoresBD.pdb
+F:\DI\di\Tema13\ProveedoresBD\ProveedoresBD\obj\Debug\ProveedoresBD.csproj.AssemblyReference.cache
+F:\DI\di\Tema13\ProveedoresBD\ProveedoresBD\obj\Debug\ProveedoresBD.Form1.resources
+F:\DI\di\Tema13\ProveedoresBD\ProveedoresBD\obj\Debug\ProveedoresBD.Properties.Resources.resources
+F:\DI\di\Tema13\ProveedoresBD\ProveedoresBD\obj\Debug\ProveedoresBD.csproj.GenerateResource.cache
+F:\DI\di\Tema13\ProveedoresBD\ProveedoresBD\obj\Debug\ProveedoresBD.csproj.CoreCompileInputs.cache
+F:\DI\di\Tema13\ProveedoresBD\ProveedoresBD\obj\Debug\ProveedoresBD.exe
+F:\DI\di\Tema13\ProveedoresBD\ProveedoresBD\obj\Debug\ProveedoresBD.pdb
+F:\DI\di\Tema13\ProveedoresBD\ProveedoresBD\obj\Debug\ProveedoresBD.exe.config

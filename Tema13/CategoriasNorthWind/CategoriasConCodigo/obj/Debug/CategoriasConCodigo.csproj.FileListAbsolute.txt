@@ -1,0 +1,11 @@
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasConCodigo\bin\Debug\CategoriasConCodigo.exe.config
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasConCodigo\bin\Debug\CategoriasConCodigo.exe
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasConCodigo\bin\Debug\CategoriasConCodigo.pdb
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasConCodigo\obj\Debug\CategoriasConCodigo.csproj.AssemblyReference.cache
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasConCodigo\obj\Debug\CategoriasConCodigo.Form1.resources
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasConCodigo\obj\Debug\CategoriasConCodigo.Properties.Resources.resources
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasConCodigo\obj\Debug\CategoriasConCodigo.csproj.GenerateResource.cache
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasConCodigo\obj\Debug\CategoriasConCodigo.csproj.CoreCompileInputs.cache
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasConCodigo\obj\Debug\CategoriasConCodigo.exe
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasConCodigo\obj\Debug\CategoriasConCodigo.pdb
+F:\DI\di\Tema13\CategoriasNorthWind\CategoriasConCodigo\obj\Debug\CategoriasConCodigo.exe.config

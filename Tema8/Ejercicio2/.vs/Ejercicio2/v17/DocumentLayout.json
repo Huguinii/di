@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DI\\Tema8\\Ejercicio2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE90F86-8D87-46AE-80AB-71B10E3B548D}|Ejercicio2\\Ejercicio2.csproj|f:\\di\\tema8\\ejercicio2\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE90F86-8D87-46AE-80AB-71B10E3B548D}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DI\\Tema8\\Ejercicio2\\Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\Program.cs",
+              "ToolTip": "F:\\DI\\Tema8\\Ejercicio2\\Ejercicio2\\Program.cs",
+              "RelativeToolTip": "Ejercicio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T11:38:21.218Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

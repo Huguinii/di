@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DI\\Tema7\\ClaseAbstracta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C738769-A40F-4D41-9B8D-180CD0BA6CA0}|ClaseAbstracta\\ClaseAbstracta.csproj|f:\\di\\tema7\\claseabstracta\\claseabstracta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C738769-A40F-4D41-9B8D-180CD0BA6CA0}|ClaseAbstracta\\ClaseAbstracta.csproj|solutionrelative:claseabstracta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DI\\Tema7\\ClaseAbstracta\\ClaseAbstracta\\Program.cs",
+              "RelativeDocumentMoniker": "ClaseAbstracta\\Program.cs",
+              "ToolTip": "F:\\DI\\Tema7\\ClaseAbstracta\\ClaseAbstracta\\Program.cs",
+              "RelativeToolTip": "ClaseAbstracta\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwDIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T10:47:57.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

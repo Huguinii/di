@@ -1,0 +1,7 @@
+F:\DI\Tema8\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+F:\DI\Tema8\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+F:\DI\Tema8\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+F:\DI\Tema8\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+F:\DI\Tema8\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+F:\DI\Tema8\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+F:\DI\Tema8\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.pdb

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DI\\di\\ExamenRecuperacion\\InformesPelis_Hugo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F01FBE-6441-45FA-AF78-085F89A54A2F}|InformesPelis_Hugo\\InformesPelis_Hugo.csproj|f:\\di\\di\\examenrecuperacion\\informespelis_hugo\\informespelis_hugo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F01FBE-6441-45FA-AF78-085F89A54A2F}|InformesPelis_Hugo\\InformesPelis_Hugo.csproj|solutionrelative:informespelis_hugo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F01FBE-6441-45FA-AF78-085F89A54A2F}|InformesPelis_Hugo\\InformesPelis_Hugo.csproj|f:\\di\\di\\examenrecuperacion\\informespelis_hugo\\informespelis_hugo\\listadoactores.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{F2F01FBE-6441-45FA-AF78-085F89A54A2F}|InformesPelis_Hugo\\InformesPelis_Hugo.csproj|solutionrelative:informespelis_hugo\\listadoactores.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F01FBE-6441-45FA-AF78-085F89A54A2F}|InformesPelis_Hugo\\InformesPelis_Hugo.csproj|f:\\di\\di\\examenrecuperacion\\informespelis_hugo\\informespelis_hugo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2F01FBE-6441-45FA-AF78-085F89A54A2F}|InformesPelis_Hugo\\InformesPelis_Hugo.csproj|solutionrelative:informespelis_hugo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F01FBE-6441-45FA-AF78-085F89A54A2F}|InformesPelis_Hugo\\InformesPelis_Hugo.csproj|f:\\di\\di\\examenrecuperacion\\informespelis_hugo\\informespelis_hugo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2F01FBE-6441-45FA-AF78-085F89A54A2F}|InformesPelis_Hugo\\InformesPelis_Hugo.csproj|solutionrelative:informespelis_hugo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F01FBE-6441-45FA-AF78-085F89A54A2F}|InformesPelis_Hugo\\InformesPelis_Hugo.csproj|f:\\di\\di\\examenrecuperacion\\informespelis_hugo\\informespelis_hugo\\edadesactores.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{F2F01FBE-6441-45FA-AF78-085F89A54A2F}|InformesPelis_Hugo\\InformesPelis_Hugo.csproj|solutionrelative:informespelis_hugo\\edadesactores.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2F01FBE-6441-45FA-AF78-085F89A54A2F}|InformesPelis_Hugo\\InformesPelis_Hugo.csproj|f:\\di\\di\\examenrecuperacion\\informespelis_hugo\\informespelis_hugo\\listadodepeliculasyreparto.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{F2F01FBE-6441-45FA-AF78-085F89A54A2F}|InformesPelis_Hugo\\InformesPelis_Hugo.csproj|solutionrelative:informespelis_hugo\\listadodepeliculasyreparto.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "F:\\DI\\di\\ExamenRecuperacion\\InformesPelis_Hugo\\InformesPelis_Hugo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "InformesPelis_Hugo\\Form1.Designer.cs",
+              "ToolTip": "F:\\DI\\di\\ExamenRecuperacion\\InformesPelis_Hugo\\InformesPelis_Hugo\\Form1.Designer.cs",
+              "RelativeToolTip": "InformesPelis_Hugo\\Form1.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAASwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:02:23.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\DI\\di\\ExamenRecuperacion\\InformesPelis_Hugo\\InformesPelis_Hugo\\Form1.cs",
+              "RelativeDocumentMoniker": "InformesPelis_Hugo\\Form1.cs",
+              "ToolTip": "F:\\DI\\di\\ExamenRecuperacion\\InformesPelis_Hugo\\InformesPelis_Hugo\\Form1.cs",
+              "RelativeToolTip": "InformesPelis_Hugo\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:55:16.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListadoActores.rpt",
+              "DocumentMoniker": "F:\\DI\\di\\ExamenRecuperacion\\InformesPelis_Hugo\\InformesPelis_Hugo\\ListadoActores.rpt",
+              "RelativeDocumentMoniker": "InformesPelis_Hugo\\ListadoActores.rpt",
+              "ToolTip": "F:\\DI\\di\\ExamenRecuperacion\\InformesPelis_Hugo\\InformesPelis_Hugo\\ListadoActores.rpt",
+              "RelativeToolTip": "InformesPelis_Hugo\\ListadoActores.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-20T09:27:22.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListadoDePeliculasYReparto.rpt",
+              "DocumentMoniker": "F:\\DI\\di\\ExamenRecuperacion\\InformesPelis_Hugo\\InformesPelis_Hugo\\ListadoDePeliculasYReparto.rpt",
+              "RelativeDocumentMoniker": "InformesPelis_Hugo\\ListadoDePeliculasYReparto.rpt",
+              "ToolTip": "F:\\DI\\di\\ExamenRecuperacion\\InformesPelis_Hugo\\InformesPelis_Hugo\\ListadoDePeliculasYReparto.rpt",
+              "RelativeToolTip": "InformesPelis_Hugo\\ListadoDePeliculasYReparto.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-20T08:42:43.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EdadesActores.rpt",
+              "DocumentMoniker": "F:\\DI\\di\\ExamenRecuperacion\\InformesPelis_Hugo\\InformesPelis_Hugo\\EdadesActores.rpt",
+              "RelativeDocumentMoniker": "InformesPelis_Hugo\\EdadesActores.rpt",
+              "ToolTip": "F:\\DI\\di\\ExamenRecuperacion\\InformesPelis_Hugo\\InformesPelis_Hugo\\EdadesActores.rpt",
+              "RelativeToolTip": "InformesPelis_Hugo\\EdadesActores.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-02-20T09:16:34.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "F:\\DI\\di\\ExamenRecuperacion\\InformesPelis_Hugo\\InformesPelis_Hugo\\Form1.cs",
+              "RelativeDocumentMoniker": "InformesPelis_Hugo\\Form1.cs",
+              "ToolTip": "F:\\DI\\di\\ExamenRecuperacion\\InformesPelis_Hugo\\InformesPelis_Hugo\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InformesPelis_Hugo\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T08:43:18.403Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

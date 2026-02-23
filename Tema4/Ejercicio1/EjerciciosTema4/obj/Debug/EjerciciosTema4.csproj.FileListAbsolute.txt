@@ -1,0 +1,16 @@
+F:\DI\Tema3\EjerciciosTema4\EjerciciosTema4\bin\Debug\EjerciciosTema4.exe.config
+F:\DI\Tema3\EjerciciosTema4\EjerciciosTema4\bin\Debug\EjerciciosTema4.exe
+F:\DI\Tema3\EjerciciosTema4\EjerciciosTema4\bin\Debug\EjerciciosTema4.pdb
+F:\DI\Tema3\EjerciciosTema4\EjerciciosTema4\obj\Debug\EjerciciosTema4.csproj.AssemblyReference.cache
+F:\DI\Tema3\EjerciciosTema4\EjerciciosTema4\obj\Debug\EjerciciosTema4.csproj.CoreCompileInputs.cache
+F:\DI\Tema3\EjerciciosTema4\EjerciciosTema4\obj\Debug\EjerciciosTema4.exe
+F:\DI\Tema3\EjerciciosTema4\EjerciciosTema4\obj\Debug\EjerciciosTema4.pdb
+F:\DI\Tema3\EjerciciosTema4\EjerciciosTema4\obj\Debug\EjerciciosTema4.exe.config
+F:\DI\Tema4\EjerciciosTema4\EjerciciosTema4\obj\Debug\EjerciciosTema4.csproj.AssemblyReference.cache
+F:\DI\Tema4\EjerciciosTema4\EjerciciosTema4\obj\Debug\EjerciciosTema4.exe.config
+F:\DI\Tema4\EjerciciosTema4\EjerciciosTema4\obj\Debug\EjerciciosTema4.csproj.CoreCompileInputs.cache
+F:\DI\Tema4\EjerciciosTema4\EjerciciosTema4\obj\Debug\EjerciciosTema4.exe
+F:\DI\Tema4\EjerciciosTema4\EjerciciosTema4\obj\Debug\EjerciciosTema4.pdb
+F:\DI\Tema4\EjerciciosTema4\EjerciciosTema4\bin\Debug\EjerciciosTema4.exe.config
+F:\DI\Tema4\EjerciciosTema4\EjerciciosTema4\bin\Debug\EjerciciosTema4.exe
+F:\DI\Tema4\EjerciciosTema4\EjerciciosTema4\bin\Debug\EjerciciosTema4.pdb

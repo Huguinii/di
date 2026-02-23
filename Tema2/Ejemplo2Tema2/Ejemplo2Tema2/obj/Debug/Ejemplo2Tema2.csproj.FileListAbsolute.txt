@@ -1,0 +1,11 @@
+F:\DI\Tema2\Ejemplo2Tema2\Ejemplo2Tema2\bin\Debug\Ejemplo2Tema2.exe.config
+F:\DI\Tema2\Ejemplo2Tema2\Ejemplo2Tema2\bin\Debug\Ejemplo2Tema2.exe
+F:\DI\Tema2\Ejemplo2Tema2\Ejemplo2Tema2\bin\Debug\Ejemplo2Tema2.pdb
+F:\DI\Tema2\Ejemplo2Tema2\Ejemplo2Tema2\obj\Debug\Ejemplo2Tema2.csproj.AssemblyReference.cache
+F:\DI\Tema2\Ejemplo2Tema2\Ejemplo2Tema2\obj\Debug\Ejemplo2Tema2.Properties.Resources.resources
+F:\DI\Tema2\Ejemplo2Tema2\Ejemplo2Tema2\obj\Debug\Ejemplo2Tema2.csproj.GenerateResource.cache
+F:\DI\Tema2\Ejemplo2Tema2\Ejemplo2Tema2\obj\Debug\Ejemplo2Tema2.csproj.CoreCompileInputs.cache
+F:\DI\Tema2\Ejemplo2Tema2\Ejemplo2Tema2\obj\Debug\Ejemplo2Tema2.exe
+F:\DI\Tema2\Ejemplo2Tema2\Ejemplo2Tema2\obj\Debug\Ejemplo2Tema2.pdb
+F:\DI\Tema2\Ejemplo2Tema2\Ejemplo2Tema2\obj\Debug\Ejemplo2Tema2.exe.config
+F:\DI\Tema2\Ejemplo2Tema2\Ejemplo2Tema2\obj\Debug\Ejemplo2Tema2.Ejercicio3Tema2.resources

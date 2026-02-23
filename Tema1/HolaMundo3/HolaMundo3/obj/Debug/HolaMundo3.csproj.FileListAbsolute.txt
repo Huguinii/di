@@ -1,0 +1,10 @@
+F:\DI\Tema1\HolaMundo3\HolaMundo3\bin\Debug\HolaMundo3.exe.config
+F:\DI\Tema1\HolaMundo3\HolaMundo3\bin\Debug\HolaMundo3.exe
+F:\DI\Tema1\HolaMundo3\HolaMundo3\bin\Debug\HolaMundo3.pdb
+F:\DI\Tema1\HolaMundo3\HolaMundo3\obj\Debug\HolaMundo3.csproj.AssemblyReference.cache
+F:\DI\Tema1\HolaMundo3\HolaMundo3\obj\Debug\HolaMundo3.Form1.resources
+F:\DI\Tema1\HolaMundo3\HolaMundo3\obj\Debug\HolaMundo3.Properties.Resources.resources
+F:\DI\Tema1\HolaMundo3\HolaMundo3\obj\Debug\HolaMundo3.csproj.GenerateResource.cache
+F:\DI\Tema1\HolaMundo3\HolaMundo3\obj\Debug\HolaMundo3.csproj.CoreCompileInputs.cache
+F:\DI\Tema1\HolaMundo3\HolaMundo3\obj\Debug\HolaMundo3.exe
+F:\DI\Tema1\HolaMundo3\HolaMundo3\obj\Debug\HolaMundo3.pdb
