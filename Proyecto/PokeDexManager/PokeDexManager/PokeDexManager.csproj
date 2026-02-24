@@ -68,6 +68,13 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>InfMultTabla.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="InfParam.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InfParam.rpt</DependentUpon>
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="NuevoPokemon.cs">
       <SubType>Form</SubType>
@@ -133,6 +140,10 @@
     <EmbeddedResource Include="InfMultTabla.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>InfMultTabla.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfParam.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>InfParam.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="NuevoPokemon.resx">
       <DependentUpon>NuevoPokemon.cs</DependentUpon>

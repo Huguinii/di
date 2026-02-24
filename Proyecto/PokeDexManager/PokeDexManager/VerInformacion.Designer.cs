@@ -71,12 +71,14 @@
             this.informePorParametrosToolStripMenuItem.Name = "informePorParametrosToolStripMenuItem";
             this.informePorParametrosToolStripMenuItem.Size = new System.Drawing.Size(145, 20);
             this.informePorParametrosToolStripMenuItem.Text = "Informe por parámetros";
+            this.informePorParametrosToolStripMenuItem.Click += new System.EventHandler(this.informePorParametrosToolStripMenuItem_Click);
             // 
             // informeMultipleToolStripMenuItem
             // 
             this.informeMultipleToolStripMenuItem.Name = "informeMultipleToolStripMenuItem";
             this.informeMultipleToolStripMenuItem.Size = new System.Drawing.Size(147, 20);
             this.informeMultipleToolStripMenuItem.Text = "Informe múltiples tablas";
+            this.informeMultipleToolStripMenuItem.Click += new System.EventHandler(this.informeMultipleToolStripMenuItem_Click);
             // 
             // VerInformacion
             // 

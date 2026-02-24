@@ -22,5 +22,17 @@ namespace PokeDexManager
             InfGrafico grafico = new InfGrafico();
             crystalReportViewer1.ReportSource = grafico;
         }
+
+        private void informeMultipleToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            InfMultTabla multTabla = new InfMultTabla();
+            crystalReportViewer1.ReportSource = multTabla;
+        }
+
+        private void informePorParametrosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            InfParam param = new InfParam();
+            crystalReportViewer1.ReportSource = param;
+        }
     }
 }
