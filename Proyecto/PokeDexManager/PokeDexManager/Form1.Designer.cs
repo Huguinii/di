@@ -42,16 +42,11 @@
             this.statusBar = new System.Windows.Forms.StatusStrip();
             this.tsslListo = new System.Windows.Forms.ToolStripStatusLabel();
             this.tsslPokemonCargados = new System.Windows.Forms.ToolStripStatusLabel();
-            this.cxtMenuFiltro = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.tscbFiltrarPorTipo = new System.Windows.Forms.ToolStripComboBox();
-            this.tstbPokemonPorNombre = new System.Windows.Forms.ToolStripTextBox();
-            this.tstbPokemonPorNivel = new System.Windows.Forms.ToolStripTextBox();
-            this.tstbPokemonPorVictorias = new System.Windows.Forms.ToolStripTextBox();
             this.ttip = new System.Windows.Forms.ToolTip(this.components);
             this.panelContenido = new System.Windows.Forms.Panel();
+            this.guiaDeUsuarioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuBar.SuspendLayout();
             this.statusBar.SuspendLayout();
-            this.cxtMenuFiltro.SuspendLayout();
             this.SuspendLayout();
             // 
             // menuBar
@@ -100,7 +95,8 @@
             // 
             this.ayudaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.acercaDeToolStripMenuItem,
-            this.informesToolStripMenuItem});
+            this.informesToolStripMenuItem,
+            this.guiaDeUsuarioToolStripMenuItem});
             this.ayudaToolStripMenuItem.Name = "ayudaToolStripMenuItem";
             resources.ApplyResources(this.ayudaToolStripMenuItem, "ayudaToolStripMenuItem");
             // 
@@ -134,36 +130,6 @@
             this.tsslPokemonCargados.Name = "tsslPokemonCargados";
             resources.ApplyResources(this.tsslPokemonCargados, "tsslPokemonCargados");
             // 
-            // cxtMenuFiltro
-            // 
-            this.cxtMenuFiltro.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.tscbFiltrarPorTipo,
-            this.tstbPokemonPorNombre,
-            this.tstbPokemonPorNivel,
-            this.tstbPokemonPorVictorias});
-            this.cxtMenuFiltro.Name = "cxtMenuFiltro";
-            resources.ApplyResources(this.cxtMenuFiltro, "cxtMenuFiltro");
-            // 
-            // tscbFiltrarPorTipo
-            // 
-            this.tscbFiltrarPorTipo.Name = "tscbFiltrarPorTipo";
-            resources.ApplyResources(this.tscbFiltrarPorTipo, "tscbFiltrarPorTipo");
-            // 
-            // tstbPokemonPorNombre
-            // 
-            resources.ApplyResources(this.tstbPokemonPorNombre, "tstbPokemonPorNombre");
-            this.tstbPokemonPorNombre.Name = "tstbPokemonPorNombre";
-            // 
-            // tstbPokemonPorNivel
-            // 
-            resources.ApplyResources(this.tstbPokemonPorNivel, "tstbPokemonPorNivel");
-            this.tstbPokemonPorNivel.Name = "tstbPokemonPorNivel";
-            // 
-            // tstbPokemonPorVictorias
-            // 
-            resources.ApplyResources(this.tstbPokemonPorVictorias, "tstbPokemonPorVictorias");
-            this.tstbPokemonPorVictorias.Name = "tstbPokemonPorVictorias";
-            // 
             // ttip
             // 
             this.ttip.ToolTipIcon = System.Windows.Forms.ToolTipIcon.Info;
@@ -174,6 +140,11 @@
             this.panelContenido.BackgroundImage = global::PokeDexManager.Properties.Resources.BackgroundMenu;
             resources.ApplyResources(this.panelContenido, "panelContenido");
             this.panelContenido.Name = "panelContenido";
+            // 
+            // guiaDeUsuarioToolStripMenuItem
+            // 
+            this.guiaDeUsuarioToolStripMenuItem.Name = "guiaDeUsuarioToolStripMenuItem";
+            resources.ApplyResources(this.guiaDeUsuarioToolStripMenuItem, "guiaDeUsuarioToolStripMenuItem");
             // 
             // PokeDexManager
             // 
@@ -186,14 +157,13 @@
             this.Controls.Add(this.menuBar);
             this.DoubleBuffered = true;
             this.ForeColor = System.Drawing.SystemColors.InfoText;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MainMenuStrip = this.menuBar;
             this.Name = "PokeDexManager";
             this.menuBar.ResumeLayout(false);
             this.menuBar.PerformLayout();
             this.statusBar.ResumeLayout(false);
             this.statusBar.PerformLayout();
-            this.cxtMenuFiltro.ResumeLayout(false);
-            this.cxtMenuFiltro.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -212,14 +182,10 @@
         private System.Windows.Forms.ToolStripMenuItem acercaDeToolStripMenuItem;
         private System.Windows.Forms.ToolStripStatusLabel tsslListo;
         private System.Windows.Forms.ToolStripStatusLabel tsslPokemonCargados;
-        private System.Windows.Forms.ContextMenuStrip cxtMenuFiltro;
-        private System.Windows.Forms.ToolStripComboBox tscbFiltrarPorTipo;
-        private System.Windows.Forms.ToolStripTextBox tstbPokemonPorNombre;
-        private System.Windows.Forms.ToolStripTextBox tstbPokemonPorNivel;
-        private System.Windows.Forms.ToolStripTextBox tstbPokemonPorVictorias;
         private System.Windows.Forms.ToolTip ttip;
         private System.Windows.Forms.Panel panelContenido;
         private System.Windows.Forms.ToolStripMenuItem informesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem guiaDeUsuarioToolStripMenuItem;
     }
 }
 

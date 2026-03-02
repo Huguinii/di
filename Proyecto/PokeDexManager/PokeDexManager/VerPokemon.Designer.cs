@@ -144,9 +144,20 @@
             label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             label2.Location = new System.Drawing.Point(9, 340);
             label2.Name = "label2";
-            label2.Size = new System.Drawing.Size(163, 20);
+            label2.Size = new System.Drawing.Size(173, 20);
             label2.TabIndex = 20;
-            label2.Text = "Combates Gandos:";
+            label2.Text = "Combates Ganados:";
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.BackColor = System.Drawing.Color.Transparent;
+            label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            label3.Location = new System.Drawing.Point(2, 385);
+            label3.Name = "label3";
+            label3.Size = new System.Drawing.Size(176, 20);
+            label3.TabIndex = 22;
+            label3.Text = "Experiencia Ganada:";
             // 
             // txtNivel
             // 
@@ -237,17 +248,6 @@
             this.txtCombatesTotales.ReadOnly = true;
             this.txtCombatesTotales.Size = new System.Drawing.Size(173, 26);
             this.txtCombatesTotales.TabIndex = 21;
-            // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.BackColor = System.Drawing.Color.Transparent;
-            label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            label3.Location = new System.Drawing.Point(2, 385);
-            label3.Name = "label3";
-            label3.Size = new System.Drawing.Size(176, 20);
-            label3.TabIndex = 22;
-            label3.Text = "Experiencia Ganada:";
             // 
             // txtExperienciaGanada
             // 
