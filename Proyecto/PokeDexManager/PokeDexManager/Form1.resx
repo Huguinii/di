@@ -161,7 +161,7 @@
     <value>Pokemon</value>
   </data>
   <data name="acercaDeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
+    <value>126, 22</value>
   </data>
   <data name="acercaDeToolStripMenuItem.Text" xml:space="preserve">
     <value>Acerca de</value>
@@ -170,7 +170,7 @@
     <value>Acerca del programa</value>
   </data>
   <data name="informesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
+    <value>126, 22</value>
   </data>
   <data name="informesToolStripMenuItem.Text" xml:space="preserve">
     <value>Informes</value>

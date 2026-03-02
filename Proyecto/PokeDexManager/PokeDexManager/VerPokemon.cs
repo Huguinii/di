@@ -6,24 +6,28 @@ namespace PokeDexManager
 {
     public partial class VerPokemon : Form
     {
+        /// Indica si el formulario está en modo edición o solo visualización
         private bool modoEdicion = false;
 
+        /// IDs del Pokémon y su especie (necesarios para updates)
         private int idPokemon;
         private int idEspecie;
 
+        /// TableAdapters para acceder a la base de datos
         private PokemonTableAdapter pokemonTA = new PokemonTableAdapter();
         private EspecieTableAdapter especieTA = new EspecieTableAdapter();
         private TipoTableAdapter tipoTA = new TipoTableAdapter();
         private CombateTableAdapter combateTA = new CombateTableAdapter();
 
-
+        /// Constructor del formulario
         public VerPokemon()
         {
             InitializeComponent();
-            ConfigurarFormulario();
-            CargarTipos();
+            ConfigurarFormulario(); /// Pone todo en modo solo lectura
+            CargarTipos();          /// Carga el combo de tipos
         }
 
+        /// Configura el formulario en modo visualización (no editable)
         private void ConfigurarFormulario()
         {
             txtPokemon.ReadOnly = true;
@@ -34,11 +38,12 @@ namespace PokeDexManager
             cmbTipo.Enabled = false;
             txtDescripcion.ReadOnly = true;
 
-            btnGuardar.Visible = false;
+            btnGuardar.Visible = false; /// Oculta el botón guardar
 
-            this.StartPosition = FormStartPosition.CenterParent;
+            this.StartPosition = FormStartPosition.CenterParent; /// Centra el popup
         }
 
+        /// Carga los tipos de Pokémon en el ComboBox
         private void CargarTipos()
         {
             var tablaTipos = tipoTA.GetData();
@@ -47,7 +52,7 @@ namespace PokeDexManager
             cmbTipo.ValueMember = "IdTipo";
         }
 
-        // 🔥 Ahora recibe también IdEspecie y TipoId
+        /// Carga los datos del Pokémon seleccionado
         public void CargarDatos(
             int idPoke,
             int idEsp,
@@ -62,6 +67,7 @@ namespace PokeDexManager
             idPokemon = idPoke;
             idEspecie = idEsp;
 
+            /// Mostrar stats
             txtPokemon.Text = nombre;
             txtNivel.Text = nivel.ToString();
             txtSalud.Text = salud.ToString();
@@ -70,9 +76,8 @@ namespace PokeDexManager
             cmbTipo.SelectedValue = tipoId;
             txtDescripcion.Text = descripcion;
 
-            //Combates totales ganados
+            /// Obtener combates ganados
             int totalCombates = 0;
-
             var result = combateTA.GetCombatesGanadosById(idPokemon);
 
             if (result != null)
@@ -80,19 +85,17 @@ namespace PokeDexManager
 
             txtCombatesTotales.Text = totalCombates.ToString();
 
-            // Experiencia total ganada
+            /// Obtener experiencia total ganada
             int experienciaTotal = 0;
-
             var expResult = combateTA.GetExperienciaTotalGanadaByPokemonId(idPokemon);
 
             if (expResult != null)
                 experienciaTotal = Convert.ToInt32(expResult);
 
             txtExperienciaGanada.Text = experienciaTotal.ToString();
-
-
         }
 
+        /// Activa el modo edición (habilita campos)
         public void ActivarModoEdicion()
         {
             modoEdicion = true;
@@ -107,21 +110,29 @@ namespace PokeDexManager
             btnGuardar.Visible = true;
         }
 
-        
-
+        /// <summary>
+        /// Botón volver → cierra el formulario
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnVolver_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
+        /// <summary>
+        /// Guarda los cambios si está en modo edición
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnGuardar_Click(object sender, EventArgs e)
         {
-
             if (!modoEdicion)
                 return;
 
             try
             {
+                /// Leer valores modificados
                 int nivel = int.Parse(txtNivel.Text);
                 int salud = int.Parse(txtSalud.Text);
                 int ataque = int.Parse(txtAtaque.Text);
@@ -129,7 +140,7 @@ namespace PokeDexManager
                 int nuevoTipoId = Convert.ToInt32(cmbTipo.SelectedValue);
                 string nuevaDescripcion = txtDescripcion.Text;
 
-                // 🔹 Update Pokemon
+                /// Actualiza stats del Pokémon
                 pokemonTA.UpdatePokemonStats(
                     nivel,
                     salud,
@@ -138,7 +149,7 @@ namespace PokeDexManager
                     idPokemon
                 );
 
-                // 🔹 Update Especie
+                /// Actualiza datos de la especie
                 especieTA.UpdateEspecieDatos(
                     nuevoTipoId,
                     nuevaDescripcion,
@@ -155,7 +166,5 @@ namespace PokeDexManager
                 MessageBox.Show("Revisa los datos introducidos.");
             }
         }
-
-        
     }
 }

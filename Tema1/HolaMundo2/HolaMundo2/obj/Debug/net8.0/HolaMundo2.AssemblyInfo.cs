@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HolaMundo2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47e12769b781fd09d3b549677f5004093fc24bfb")]
 [assembly: System.Reflection.AssemblyProductAttribute("HolaMundo2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HolaMundo2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

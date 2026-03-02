@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,6 +17,7 @@ namespace PokeDexManager
         public PokeDexManager()
         {
             InitializeComponent();
+            
         }
 
         private void ActualizarStatus(int cantidad)
@@ -54,5 +57,13 @@ namespace PokeDexManager
             VerInformacion info = new VerInformacion();
             info.Show();
         }
+
+        private void acercaDeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            string rutaEjecutable = System.IO.Directory.GetCurrentDirectory();
+            System.Diagnostics.Process.Start(rutaEjecutable + "\\Help\\Documentation.chm");
+        }
+
+        
     }
 }

@@ -108,6 +108,7 @@
             // 
             this.acercaDeToolStripMenuItem.Name = "acercaDeToolStripMenuItem";
             resources.ApplyResources(this.acercaDeToolStripMenuItem, "acercaDeToolStripMenuItem");
+            this.acercaDeToolStripMenuItem.Click += new System.EventHandler(this.acercaDeToolStripMenuItem_Click);
             // 
             // informesToolStripMenuItem
             // 
